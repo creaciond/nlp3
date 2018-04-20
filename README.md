@@ -16,7 +16,6 @@
 ## Домашние задания и дедлайны
 |#|Домашнее задание|Ссылка|Дедлайн|
 |--|--|--|--|
-|1|TF-IDF|[Google Drive](https://docs.google.com/document/d/16GLEDqA2J2wejAYB-fBFZN24N6zoaXTXDJP56ZM3bI8/edit)|25 апр|
-|2|Частотные характеристики элементов текста|[Google Drive](https://docs.google.com/document/d/1QB8Ygh9oiqbtVyTz-vT-R0wgRwrLqXNf1WS5RbpTHLY/edit)|25 апр|
-|3|Препроцессинг|[тетрадка Jupyter](./homeworks/HW_1.ipynb)|25 апр|
-|4|Распознавание языка|тут будет ссылка|29 апр|
+|1|TF-IDF, частотные характеристики элементов текста|[задание](https://docs.google.com/document/d/1QB8Ygh9oiqbtVyTz-vT-R0wgRwrLqXNf1WS5RbpTHLY/edit), [инструкция](https://docs.google.com/document/d/16GLEDqA2J2wejAYB-fBFZN24N6zoaXTXDJP56ZM3bI8/edit)|25 апр|
+|2|Препроцессинг|[тетрадка Jupyter](./homeworks/HW_1.ipynb)|25 апр|
+|3|Распознавание языка|тут будет ссылка|29 апр|

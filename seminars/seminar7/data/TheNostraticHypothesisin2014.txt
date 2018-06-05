@@ -1,0 +1,913 @@
+34
+of development, the relational markers listed below were free relational morphemes
+(postpositional particles). In later Proto-Nostratic, however, at least two of them were
+well on their way to becoming bound relational morphemes (case suffixes).
+As already noted, only the following two bound relational markers (case
+suffixes) can be confidently reconstructed for the latest period of Proto-Nostratic: (A)
+direct object *-ma, *-na and (B) genitive *-nu. Other case relationships were expressed
+by postpositions (see below for a list), some of which developed into bound case
+morphemes in the individual daughter languages. This is confirmed by Dravidian,
+where only the accusative (*-ay, *-Vn), dative (*-kk-/*-k-), and genitive (*-a, *-in) can
+be confidently reconstructed for the Dravidian parent language. Other case forms
+developed within the Dravidian daughter languages. Likewise, only the following two
+grammatical cases can be reconstructed for Proto-Uralic: (A) accusative *-m, which
+probably was used to mark the definite direct object of finite verbs, and (B) a
+subordinate suffix *-n, which functioned as a genitive/nominalizer with nouns and as an
+adverb formant with verbs. There were also at least three local cases in Proto-Uralic:
+(A) locative *-nA, (B) separative *-tA ~ *-tI, and (C) and perhaps the latives *-k (and/or
+*-ŋ) and *-t¨ (traditional *-ć) (and/or *-n¨ [traditional *-ń]). Denis Sinor (1988:714—
+725) has devoted an important study to the question of common case markers between
+Uralic and Altaic. He, too, posits a Proto-Uralic accusative in *-m and a genitive in *-n.
+For the former, he notes that nothing comparable can be posited for Proto-Turkic or
+Proto-Mongolian, but he does reconstruct a Proto-Tungus accusative *-m, which is in
+agreement with what is found in Uralic. The clearest parallels for the latter are to be
+found in the Proto-Mongolian genitive *-n and in the Proto-Turkic genitive *-n. The
+genitive and accusative have converged in some Mongolian languages. This seems to
+indicate that Proto-Mongolian may have preserved the *-n variant accusative form as
+opposed to the *-m variant found in Uralic and Tungus. Sinor (1988:715—725) also
+discusses the Uralic and Altaic parallels between various local cases. Finally, it is
+worth mentioning here that, within Afroasiatic, Zaborski (1990:628) tentatively
+reconstructs the following case morphemes for Proto-Omotic: (A) nominative: *-i: (B)
+genitive-instrumental-directional: *-kV; (C) dative: *-s; (D) dative-comitative: *-rV;
+(E) accusative: *-a and *-nV; (F) instrumental-locative-directional-dative: *-nV; and
+(G) ablative: *-pV. Zaborski (1990:618) notes that some of these case forms may go
+back to earlier postpositions. Parallels with Cushitic show that at least some of these
+case forms go back to Proto-Afroasiatic. Diakonoff (1988:61) notes that the following
+cases can be established for Proto-Afroasiatic with reasonable certainty: (A) *-Vš, *-
+šV: locative-terminative; (B) *-dV, *-Vd: comitative, dative; (C) *-kV: ablative and
+comparative; (D) *-Vm: locative-adverbialis; (E) *-l: directive; and (F) *-p (also *-f):
+ablative (in Omotic); conjunction, demonstrative pronoun in other languages. The
+ultimate Nostratic origin of several of the case forms posited by Zaborski for Proto-
+Omotic and by Diakonoff for Proto-Afroasiatic is completely transparent.
+In Proto-Nostratic, adjectives did not exist as a separate grammatical category.
+They were differentiated from nouns mainly by syntactical means — “adjectives”
+preceded the nouns they modified. Moreover, they did not agree with the head noun in
+number or gender.
+35
+9.1. Relational Markers
+Direct object: *-ma
+Direct object: *-na
+Possessive: *-nu ‘belonging to’
+Possessive: *-lV ‘belonging to’
+Dative: *-na ‘to, for’
+Directive: *-kºa ‘direction to or towards, motion to or towards’
+Directive(-locative): *-ri ‘direction to or towards, motion to or towards’ (?)
+Locative: *-ni ‘the place in, on, or at which something exists or occurs’
+Locative, instrumental-comitative: *-ma ‘in, from, with’
+Locative: *-bi ‘in addition to, together with’
+Locative: *-i ‘near to, near by’ (?)
+Comitative-locative: *-da ‘together with’
+Oblique: *-tºa
+The following table correlates Bomhard’s reconstructions for the Proto-Nostratic
+relational markers with those of Illič-Svityč, Dolgopolsky, Greenberg, and Kortlandt:
+Bomhard Illič-Svityč Dolgopolsky Greenberg Kortlandt
+Direct object *-ma *-mʌ *-mA *-m *-m
+Direct object *-na
+Possessive *-nu *-n *-nu *-n *-n
+Possessive *-lV *-l
+Dative *-na *-nV
+Directive *-kºa *-ḳʌ *-Ḳó
+[= *-ḳó ?]
+*-ka
+dative
+*-ka
+dative
+Directive(-locative) *-ri *-ru *-rV
+Locative *-ni *-na *-n *-nV
+Locative, instr.-comit. *-ma *-m
+Locative *-bi *-bh-
+Locative *-i *-i
+Comitative-locative *-da *-da
+locative
+*-d[E]H1a *-ta
+locative
+*-du, *-da
+(Altaic)
+Oblique *-tºa *-tʌ
+instrumental
+*-ta
+ablative
+*-t
+ablative
+9.2. Dual and Plural Markers
+Dual: *kºi(-nV)
+Plural: *-tºa
+Plural: *-ri
+Plural: *-kºu
+Plural (Eurasiatic only): *-sV
+Plural/collective: *-la
+Plural: *-nV
+36
+Note: plurality could also be expressed by reduplication of the root.
+The following table correlates Bomhard’s reconstructions for the Proto-Nostratic
+dual and plural markers with those of Illič-Svityč, Dolgopolsky, Greenberg, and
+Kortlandt:
+Bomhard Illič-Svityč Dolgopolsky Greenberg Kortlandt
+Dual *kºi(-nV) *-"ó *ki[n] *-ki
+Plural *-tºa *-t *-tó *-t *-t
+Plural *-ri *-r[i] *-ri
+Plural *-kºu *-kU *-ku
+Plural (Eurasiatic only) *-sV *-s
+Plural/collective *-la *-lA *-ļA *-l
+Plural *-nV *-nA *-n[ä] *-n
+9.3. Derivational Suffixes
+Nominalizer: *-r-
+Nominalizer: *-m-
+Nominalizer: *-y-
+Nominalizer: *-tº-
+Nominalizer: *-n-
+Nominalizer: *-l-
+Nominalizer: *-kº-
+Nominalizer: *-k’-
+10. Verbal Morphology
+In Proto-Nostratic, verbs fell into two types of construction: (A) active and (B)
+stative. In active constructions, which usually involved transitive verbs, the
+grammatical subject of the verb represented the agent performing the action, and the
+direct object represented the patient, or recipient, of the action. Stative constructions,
+on the other hand, expressed a state of affairs, rather than an event. Verbs expressed
+aspectual contrasts rather than temporal contrasts. Tense relates the time of the
+situation referred to to some other time, usually to the moment of speaking, while aspect
+marks the duration or type of temporal activity denoted by the verb. Proto-Nostratic
+had two aspects: (A) perfective (past) and (B) imperfective (non-past). Proto-Nostratic
+also had, at the very least, the following moods: (A) indicative; (B) imperative; (C)
+conditional; (D) hortatory-precative; (E) inchoative; and (F) prohibitive. There was also
+a causative construction.
+The overall structure of verbs was as follows:
+37
+Root + formative vowel (+ derivational suffix)
+(+ mood marker) (+ person marker) (+ number marker)
+A stem could consist of the unextended root or the root extended by a single
+derivational suffix (preceded, as indicated above, by a formative vowel). The position
+of the number marker seems to have been flexible — it could also be placed before the
+person marker. Gender was not marked. There were no prefixes in Proto-Nostratic.
+We may note here that Krishnamurti (2003:279 and 312) posits the following structure
+for verbs in Proto-Dravidian:
+Stem + tense-mood + (gender-)number-person marker
+Stative verbs were indifferent to number and, therefore, had no plural forms.
+They also had a special set of person markers different from those of active verbs. The
+following table lists the active and stative person markers reconstructed for Proto-
+Nostratic by Bomhard (2008.1:407; 2014a.1:436):
+Active person markers Stative person markers
+Person Singular Plural
+1p. *mi *ma (inclusive) (+ plural marker) *kºa
+*na *na (exclusive) (+ plural marker) *Ha
+2p. *tºi *tºi (+ plural marker) *tºi
+*si
+*ni
+3p. *ša- (~ *š‹-) *ša- (~ *š‹-) (+ plural marker) *Ø
+*na-, *ni- *na-, *ni- (+ plural marker)
+Morphologically, verbs could be either finite or non-finite. Finite forms could
+be marked for aspect, mood, person, and number, but not for gender or tense. Non-
+finite forms exhibited nominal inflection. In unmarked word order, the verb occupied
+the end position of a clause.
+10.1. Non-finite Verb Forms
+The following non-finite verb forms are widespread enough in the Nostratic
+daughter languages to guarantee their common origin, and, consequently, they are listed
+separately here. However, at the Proto-Nostratic level, they were indistinguishable
+from the nominalizing suffixes listed above.
+Participle: *-n-
+Participle: *-tº-
+Gerundive-participle: *-l-
+38
+The following table correlates Bomhard’s reconstructions for the Proto-Nostratic
+non-finite verb forms with those of Illič-Svityč, Dolgopolsky, Greenberg, and
+Kortlandt:
+Bomhard Illič-Svityč Dolgopolsky Greenberg Kortlandt
+Participle *-n- *n
+̄ ó *n *n
+Participle *-tº- *ṭó *t *t
+Gerundive-participle *-l- *l *l
+Note: Greenberg (2000:182—186, no. 44) also posits a participle in *nt for Eurasiatic.
+Bomhard (2008.1:356—357), however, regards this as a compound suffix: *-n- + *-tº-.
+10.2. Finite Verb Forms: Mood Markers
+Imperative: *-kºa, *-kºi, *-kºu; *-a, *-i, *-u
+Conditional: *-ba
+Hortatory-precative: *-li
+Inchoative: *-na
+Note: The bare stem could also serve as imperative, in which case *-a, *-i, or
+*-u were added to the stem.
+The following table correlates Bomhard’s reconstructions for the Proto-Nostratic
+mood markers with those of Illič-Svityč, Dolgopolsky, Greenberg, and Kortlandt:
+Bomhard Illič-Svityč Dolgopolsky Greenberg Kortlandt
+Imperative *-kºa, *-kºi, *-kºu *kó ~ *gó *ka
+Conditional *-ba *p
+Hortatory-precative *-li *l
+Inchoative *-na
+10.3. Finite Verb Forms: Others
+Causative: *-sV
+The following table correlates Bomhard’s reconstruction for the Proto-Nostratic
+causative marker with those of Illič-Svityč, Dolgopolsky, Greenberg, and Kortlandt:
+Bomhard Illič-Svityč Dolgopolsky Greenberg Kortlandt
+Causative *-sV *s
+39
+11. Illič-Svityč’s and Dolgopolsky’s Views on Proto-Nostratic Morphology
+Illič-Svityč never published his views on Nostratic morphology during his
+lifetime. However, his notes were gathered together and published by Vladimir Dybo
+in 2004 in the proceedings of the Pécs Centennial Conference, edited by Irén Hegedűs
+and Paul Sidwell. According to Illič-Svityč, Proto-Nostratic was an inflected language,
+apparently of the accusative type. It had both nouns and adjectives. Nominal
+declension was only available in the singular. Adjectives were declined only if they
+were substantivized and used independently. Illič-Svityč reconstructs the nominal
+paradigm as follows:
+1. Nominative-accusative: *-Ø (zero); used for subject and unmarked object;
+2. Marked object: *-mʌ; used if the object had to be topicalized in the sentence if the
+possibility existed for an ambiguous interpretation of the phrase and if a definite
+object was indicated;
+3. Genitive (connective): *-n; possessive, etc.;
+4. Instrumental: *-tʌ;
+5. Local cases: Lative: *-ḳa;
+Ablative: *-da;
+Essive (locative): *-n.
+Plurality was primarily indicated by a special marker: *-t. Illič-Svityč also
+reconstructs an oblique plural marker *-j, though he notes that this is less certain.
+Illič-Svityč reconstructs the following types of personal pronouns:
+1. Independent pronouns — specifically for indicating the pronominal subject;
+2. Forms of the subject standing by a verb, primarily in a position preceding a noun;
+3. Forms of the direct object of a verb, primarily in a position preceding a noun after
+the form of the subject;
+4. Possessive forms next to nouns, primarily in a position after a noun.
+Only the first and second person singular and plural pronouns were represented in these
+four types.
+Illič-Svityč reconstructs the following stems for these types:
+1. Independent pronouns; these stems could be extended by a facultative emphatic
+element *-na:
+1st person singular: *ʌke-na;
+2nd person singular: *ṭʌ-na;
+1st person plural: *naHe-na;
+2nd person plural: ?
+2. Forms of the subject of verbs:
+1st singular: *a-;
+40
+2nd singular: *ṭa-;
+1st plural: *na-;
+2nd plural: ?
+3. Forms of the direct object:
+1st singular: *mi-;
+2nd singular: *k-;
+1st plural: ?
+2nd plural: ?
+4. Possessive forms:
+1st singular: *mi-;
+2nd singular: *si-;
+1st plural: *mʌn;
+2nd plural: *sʌn.
+Illič-Svityč also posits the following demonstrative stems (fulfilling the function
+of 3rd person pronouns): *ṭa-, *šä-, *mu-; the following interrogative stems: *ḳo
+‘who?’, *mi ‘what?’; and the following interrogative-relative stems: *ja, *na (?).
+Illič-Svityč’s views on verb morphology were not as well developed. He
+reconstructs an imperative as well as the following two opposing verb categories: (1)
+The first designated the action itself (transferred to the object in the case of transitive
+verbs). This was used with the subject pronoun and (in the case of transitive verbs)
+with the object pronoun. Here, the nominal direct object was the marked form, and the
+verb stem coincided with the infinitive. (2) The other verb form was a derived noun
+ending in *-a. It indicated the state of the subject. If the verb were transitive, it
+contained only the prefix of the subject, and, in this case, the object noun could not be
+marked and thus always appeared in the subjective-objective case. Finally, Illič-Svityč
+suggests that there existed a temporal (or aspectual) distinction between these two basic
+verb categories, which was probably realized with the help of deictic particles of
+pronominal origin.
+Dolgopolsky’s views on Proto-Nostratic morphology differ from those of Illič-
+Svityč. According to Dolgopolsky, Proto-Nostratic was a highly analytic language.
+Dolgopolsky notes that Illič-Svityč, although recognizing the analytical status of many
+grammatical elements in Proto-Nostratic, still believed that some of them were
+agglutinated suffixes, specifically, the marker of oblique cases *-n (= Dolgopolsky’s
+*nu ‘of, from’), the formative of marked accusative *-m[ʌ] (= Dolgopolsky’s *mA), the
+plural marker *-NA (= Dolgopolsky’s *n
+̄ [ä], used to mark collectivity and plurality),
+and several others. Dolgopolsky points out that Illič-Svityč’s position is unacceptable
+inasmuch as the Proto-Nostratic formants in question still preserve the following traces
+of their former analytic status: (1) mobility within a sentence (a feature of separate
+words rather than suffixes); (2) the fact that several particles are still analytic in some of
+41
+the Nostratic descendant languages; and (3) the fact that Proto-Nostratic etyma with
+grammatical and derivational function are sometimes identical with “autosemantic
+words”. Specifically, Dolgopolsky states (2008:26—27, §4. Grammatical Typology
+[lightly edited here]):
+As we can see, Proto-Nostratic was a highly analytic language. In this point, there is a
+certain disagreement between Illič-Svityč and myself. Illič-Svityč, albeit recognizing the
+analytical status of many grammatical elements in Nostratic, still believed that some
+grammatical elements were agglutinated affixes: the marker of oblique cases *-n (= my *nu ‘of,
+from’), the formative of marked accusative *-m (= my *mA), the plural marker *-NA (= my
+*n
+̄ [ä] of collectiveness and plurality), and several others. This interpretation is hardly
+acceptable because the Nostratic etyma in question still preserve traces of their former analytic
+status: (1) they preserve some mobility within the sentence (a feature of separate words rather
+than affixes), (2) several Proto-Nostratic particles are still analytic in some descendant
+languages, (3) Nostratic etyma with grammatical and derivational function are sometimes
+identical with autosemantic words. Thus, the element *nu ‘of, from’ functions in the daughter
+languages not only as a case suffix (genitive in Uralic, Turkic, Mongolian, Tungus, formative of
+the stem of oblique case in the Indo-European heteroclitic nouns, part of the ablative case ending
+in Turkic, Kartvelian, and in Indo-European adverbs), but also as a preverb of separation/
+withdrawal in Indo-European (Baltic), as an analytic marker of separation/withdrawal (ablative)
+in Baltic (functioning in post-verbal and other positions). The element *mA is still analytic in
+Manchu (be, postposition of the direct object) and Japanese (Old Japanese wɔ > Jo). On the
+analytical status of Jo (< Nostratic *mA), no (< N *nu), cf. Vrd.JG 278-82. The element *n
+̄ [ä]
+functions not only as a post-nominal and post-verbal marker of plurality (> plural suffix of nouns
+in Kartvelian, Hamito-Semitic, and Altaic, ending of 3 pl. of verbs in Kartvelian, part of the
+Indo-European ending *-nti ~ *-nt of 3 pl.), but also as the initial marker of plurality or
+abstractness (← collectiveness) in Uralic and Egyptian pronouns: Finnish nuo (pl.) ‘those’ ↔
+tuo (sg.) ‘that’, ne (pl.) ‘those’ ↔ se (sg.) ‘that’, Egyptian n& abstract ‘this’ and ‘these (things)’
+↔ p& ‘this’ (m.) ↔ t& (f.). The animate plural deictic element (?) *yE ‘these, they’ functions not
+only as the post-nominal marker of plurality (> plural ending in Indo-European, Uralic, Altaic,
+and Cushitic), but also as a pre-nominal and pre-pronominal plural marker (in Baltic, Beja, and
+Old English). The affix forming causative verbs in Hamito-Semitic may both precede the verbal
+root and follow it (e.g., in deverbal nouns), which points to an original analytic status of the
+corresponding Nostratic etymon. Hamito-Semitic *tw- (prefix of reflexivization in derived verbs
+> Berber *tw- → t- id., Semitic prefix and infix *[-]t-, etc.) and the Anatolian Indo-European
+reflexive particle *-ti (> Hieroglyphic Luwian -ti ‘sich’, Luwian -ti, Lycian -ti, reflexive particle,
+Hittite z-, -za id.) are etymologically identical with Nostratic *tVwV ‘head’ (preserved with this
+meaning in Kartvelian and Omotic), which proves the analytic origin of the marker of
+reflexivization. In the descendant languages, most of these grammatical auxiliary words and
+some pronouns turned into synthetic affixes (agglutinative in Early Uralic and Altaic,
+inflectional [fusional] in Indo-European and, to a certain extent, in Hamito-Semitic and
+Kartvelian).
+Though Dolgopolsky seems to be implying that nominative-accusative structure
+is to be reconstructed for Proto-Nostratic, grammatical typology is actually not
+discussed. Some of the daughter languages do, indeed, exhibit nominative-accusative
+structure (Proto-Uralic, Proto-Altaic, and later stages of Proto-Indo-European), but
+others exhibit ergative-absolutive structure (Proto-Kartvelian, Proto-Eskimo-Aleut, and
+Proto-Chukchi-Kamchatkan), and still others exhibit stative-active structure (Proto-
+Afroasiatic and probably Proto-Elamo-Dravidian [definitely Elamite]), with each of
+these different grammatical structures requiring a different type of clause alignment.
+42
+No details are given as to how the inherited system was transformed into the systems
+found in the different daughter languages, nor is there any discussion of non-Nostratic
+languages or language families to show that the morphological structure being posited
+by Dolgopolsky for the Nostratic parent language has typological parallels in attested
+languages.
+In actual fact, the type of grammatical structure that seems to be able to account
+best for the circumstances found in the Nostratic daughter languages is not nominative-
+accusative but, rather, stative-active (cf. Bomhard 2008.1:387—415). As noted above,
+this type of grammatical structure was found in Proto-Afroasiatic and Proto-Elamo-
+Dravidian. In addition, stative-active structure has been convincingly posited for earlier
+stages of Proto-Indo-European by a number of distinguished scholars (for details, cf.
+Bomhard 2008.1:417—529; 2014a.1:531—545).
+Though Bomhard mostly agrees with Dolgopolsky that Proto-Nostratic was
+originally an analytic language, he maintains that, in its latest stage of development,
+several of the particles were beginning to develop into bound relational markers.
+Bomhard devotes two chapters in his 2008 and 2014a books to Proto-Nostratic
+morphology. In the first chapter (Chapter 16), he presents the evidence, while, in the
+following chapter (Chapter 17), he attempts a systematic reconstruction of Proto-
+Nostratic morphology. He also devotes two chapters (18 and 19) to Proto-Indo-
+European morphology.
+12. Prohibitive/Negative Particles and Indeclinables
+Bomhard (2008.1:368—373, 1:383—386, 1:415) reconstructs the following
+negative/prohibitive particles and indeclinables for Proto-Nostratic:
+Negative particles: *na, *ni, *nu
+Prohibitive particle: *ma(ʔ)
+Negative particle: *ʔal- (~ *ʔəl-)
+Negative particle: *li (~ *le) (?)
+Negative particle: *ʔe
+Post-positional intensifying and conjoining particle: *k¦ºa- (~ *k¦º‹-)
+Particle: *k¦ºay- ‘when, as, though, also’
+Particle: *ħar¨- ‘or; with, and; then, therefore’
+Particle: *ʔin- (~ *ʔen-), *(-)ni ‘in, into, towards, besides, moreover’
+Sentence particle: *wa (~ *wə) ‘and, also, but; like, as’
+Coordinating conjunction: *ʔaw-, *ʔwa- (~ *ʔwə-) ‘or’
+Note: The CVC- root structure patterning of some of these forms points to their
+ultimate nominal or verbal origin. For example, the negative particle *ʔal- (~
+*ʔəl-) must ultimately have been a negative verb stem meaning ‘to be not so-
+and-so’, as in Dravidian (cf. Bomhard 2008.1:371—372, §16.57, and 2:578—
+580, no. 545; see also Greenberg 2000:214—217, §58. Negative E/ELE; Illič-
+Svityč 1971—1984.I:263—264, no. 128, *#äla particle of categorical negation;
+Dolgopolsky 2008:106—107, no. 22, *#äla particle of negation and categorical
+43
+prohibition), while *ʔin- (~ *ʔen-), *(-)ni was originally a nominal stem
+meaning ‘place, location’ (cf. Dolgopolsky 2008:130—133, no. 45, *#in̄[A]
+‘place’ [(in descendant languages) → ‘in’]).
+13. Remarks on Nostratic Sound Correspondences
+The Nostratic sound correspondences given in the tables in the Appendix at the
+end of this paper are based exclusively upon the work of Bomhard (the correspondence
+sets established by Illič-Svityč and Dolgopolsky are presented at the beginning of this
+paper, though only for stops). As previously mentioned, Bomhard’s views differ in
+several significant respects from those of the Moscow School, as represented in the
+work of Illič-Svityč and Dolgopolsky. Bomhard bases his views on three fundamental
+assumptions:
+1. The traditional reconstruction of the Proto-Indo-European consonant system is
+flawed and is to be reinterpreted along the lines proposed, on the one hand, by
+Thomas V. Gamkrelidze and Vjačeslav V. Ivanov and, on the other hand, by Paul J.
+Hopper, as follows (the reconstruction of the Proto-Indo-European stop system
+posited by Lehmann [1952:99] is given for comparison):
+Lehmann Gamkrelidze—Ivanov
+b bº p = p’ bh/b ph/p
+d dº t = t’ dh/d th/t
+g gº k = k’ gh/g kh/k
+g¦ g¦º k¦ = k’ß gßh/gß kßh/kß
+2. The frequency distribution of Proto-Nostratic stops (and affricates) in the
+reconstruction proposed by Illič-Svityč and Dolgopolsky is in contradiction to
+typological predictions, and is, therefore, highly suspect (see below).
+3. Taking into consideration (1) the radical reinterpretation of the Proto-Indo-European
+consonant system proposed by Gamkrelidze, Ivanov, and Hopper, as well as (2) the
+problems in the frequency distribution of stops (and affricates) in the reconstruction
+of the Proto-Nostratic phonological system proposed by Illič-Svityč and
+Dolgopolsky, a different set of Nostratic sound correspondences is warranted.
+Each of these assumptions must be evaluated independently. The reasons that
+each of these assumptions must be evaluated independently are as follows: Even if
+assumption 1 proves to be untenable, it does not invalidate assumption 2. Likewise,
+even if assumption 2 proves to be untenable, it does not invalidate assumption 1.
+Assumption 3, on the other hand, is dependent upon assumption 2 but not assumption 1.
+That is to say, assumption 3 is not dependent upon any particular reconstruction of the
+Proto-Indo-European consonant system, though, it goes without saying, if assumption 1
+is valid, it reinforces the likelihood that the revised set of Nostratic sound
+44
+correspondences that Bomhard has proposed is correct. Inasmuch as assumption 3 is
+dependent on assumption 2, however, if assumption 2 is invalid, then assumption 3 is
+unnecessary. Moreover, even if assumption 2 is valid and a different set of Nostratic
+sound correspondences is warranted, it does not necessarily follow that the alternative
+correspondences that Bomhard has proposed are the only possible scenario, though
+other scenarios are considerably less likely.
+Let us now consider the basis for assumption 2: The mistake that Illič-Svityč
+and Dolgopolsky made was in trying to equate the glottalized stops of Proto-Kartvelian
+and Proto-Afroasiatic with the traditional plain voiceless stops of Proto-Indo-European.
+Their reconstruction would make the glottalized stops the least marked members in the
+Proto-Nostratic labial series and the most marked in the velar series. Such a
+reconstruction is thus in contradiction to typological evidence, according to which
+glottalized stops uniformly have the opposite frequency distribution (most marked in
+the labial series and least marked in the velar series). The reason that Illič-Svityč’s and
+Dolgopolsky’s reconstruction contradicts the typological evidence is as follows: Illič-
+Svityč and Dolgopolsky posit glottalics for Proto-Nostratic on the basis of a small
+number of seemingly solid examples in which glottalics in Proto-Afroasiatic and/or
+Proto-Kartvelian appear to correspond to traditional plain voiceless stops in Proto-Indo-
+European. On the basis of these examples, they assume that, whenever there is a
+voiceless stop in the Proto-Indo-European examples they cite, a glottalic is to be
+reconstructed for Proto-Nostratic, even when there are no glottalics in the corresponding
+Kartvelian and Afroasiatic forms! This means that the Proto-Nostratic glottalics have
+the same frequency distribution as the Proto-Indo-European plain voiceless stops.
+Clearly, this cannot be correct (Alexis Manaster Ramer [1997] makes the same
+observation). The main consequence of the mistaken comparison of the glottalized
+stops of Proto-Kartvelian and Proto-Afroasiatic with the traditional plain voiceless stops
+of Proto-Indo-European is that Illič-Svityč and Dolgopolsky are led to posit forms for
+Proto-Nostratic on the basis of theoretical considerations but for which there is
+absolutely no evidence in any of the Nostratic daughter languages.
+The question then arises: Do these criticisms completely invalidate the cognate
+sets involving glottalized stops (and affricates) proposed by Illič-Svityč and
+Dolgopolsky? Well, no, not exactly — it is not quite that simple. In many cases, the
+etymologies are correct, but the Proto-Nostratic reconstructions are wrong — here, a
+simple rewriting of the reconstructions is all that is required. Other examples adduced
+by Illič-Svityč and Dolgopolsky admit alternative explanations, while still others are
+questionable from a semantic point of view and should be abandoned. Once the
+questionable examples are removed, there is an extremely small number left over (no
+more than a handful) that appear to support their position. However, compared to the
+massive counter-evidence supplied by Bomhard (2008, volume 2), even these remaining
+examples become suspect (they may be borrowings or simply false cognates). Finally,
+there are even some examples where the comparison of glottalized stops in Proto-
+Kartvelian and Proto-Afroasiatic with plain voiceless stops in Proto-Indo-European is
+correct. This occurs in the cases where two glottalics originally appeared in a Proto-
+Nostratic root: *C’VC’-. Such roots are preserved without change in Proto-Kartvelian
+45
+and Proto-Afroasiatic, while in Proto-Indo-European, they have been subject to a rule of
+regressive deglottalization: *C’VC’- > *CVC’-.
+We may close this section by noting that Campbell—Poser (2008:243—264)
+have recently prepared a highly critical and devastating assessment of the work on
+Nostratic by the Moscow School in general and by Illič-Svityč in particular. They
+conclude:
+To summarize the results of our investigation of IS’s Uralic and Indo-European data and his
+methods, we see serious problems with the methods utilized and with the data in a large number
+of the sets presented (see Campbell 1998, 1999 for details). With Uralic supposedly being the
+strong suit of Nostratic, we can only assume that the forms presented from the other putative
+Nostratic language families, where we have less expertise, probably exhibit a similar range of
+problems. Therefore, we do not accept the Nostratic hypothesis.
+14. The Proto-Indo-European Phonological System
+For the latest period of development (the stage that Bomhard calls “Disinte-
+grating Indo-European”), the Proto-Indo-European phonological system may be
+reconstructed as follows (cf. Bomhard 2008.1:45—139; 2014a.1:45—151 for details —
+Lehmann 2002:201 reconstructs an almost identical system):
+Obstruents: pº tº kº k¦º
+bº dº gº g¦º
+(p’) t’ k’ k’¦
+s
+Laryngeals: # h ¸
+°
+Resonants: m/m
+̥ n/n
+̥ l/l̥ r/r
+̥ w/u y/i
+Vowels: e o a (i) (u) ə
+ē ō ā ī ū
+Notes:
+1. There may also have been phonemic palatovelars (*k¨º, *g¨º, *k’¨) at this
+stage.
+2. In late Disintegrating Indo-European, laryngeals first merged into *h. *h
+was then lost initially before vowels (except in Pre-Proto-Armenian, where
+*h from earlier *¸ and *° was preserved) and medially between an
+immediately preceding vowel and a following non-syllabic. This latter
+change caused the compensatory lengthening of preceding short vowels,
+thus:
+46
+eHC > ēC
+oHC > ōC
+aHC > āC
+iHC > īC
+uHC > ūC
+The following table compares the symbols used by Bomhard to represent the
+laryngeals with the symbols used by various other Indo-Europeanists (Kuryłowicz
+1935; Couvreur 1937; Sturtevant 1942; Lehmann 1952 and 2002; Fortson 2004 and
+2010; Clackson 2007; Mallory—Adams 1997):
+Bomhard Kuryłowicz Couvreur Sturtevant Lehmann Fortson Clackson Mallory—
+Adams
+# ™ ʼ ʼ # h÷ h÷ h÷
+¸ š ḥ x x hø hø hø
+° › ʽ ¦ ¦ hù hù hù
+h œ ' h hú
+47
+Appendix: Nostratic Sound Correspondences According to Bomhard
+A. Consonants:
+Proto- Proto- Proto- Proto- Proto- Proto- Proto- Proto-
+Nostratic IE Kartvelian Afroasiatic Uralic Dravidian Altaic Eskimo
+b- bº- b- b- p- p- b- p-
+-b- -bº- -b- -b- -w- -pp-/-vv- -b- -v-
+pº- pº- p- p-, f- p- p- pº- p-
+-pº- -pº- -p- -p-, -f- -p- -pp-/-v- -pº- -p(p)-
+p’- (p’-) p’- p’- p-
+-p’- (-p’-) -p’- -p’- -p-
+d- dº- d- d- t- t- d- t-
+-d- -dº- -d- -d- -t- -ṭ(ṭ)- -d- -ð-
+tº- tº- t- t- t- t- tº- t-
+-tº- -tº- -t- -t- -t(t)- -tt- -tº- -t(t)-
+t’- t’- t’- t’- t- t- t- t-
+-t’- -t’- -t’- -t’- -t- -t(t)- -t- -t-
+d¨- dº- ¸g- d¨- t¨- c- ¸- c-
+-d¨- -dº- -¸g- -d¨- -t¨- -c(c)-/-y- -¸-/-d- -c-
+t¨º- tº- Dk- t¨- t¨- c- čº- c-
+-t¨º- -tº- -Dk- -t¨- -t¨- -c(c)-/-y- -čº- -c(c)-
+t’¨- t’- D’k’- t’¨- t¨- c- č- c-
+-t’¨- -t’- -D’k’- -t’¨- -t¨t¨- -c(c)-/-y- -č- -c-
+s¨- s- šk- s¨- s¨- c- s-
+-s¨- -s- -šk- -s¨- -s¨- -c(c)-/-y- -s-
+μ- dº- μ- μ- č- c- ¸- c-
+-μ- -dº- -μ- -μ- -č- -c(c)- -¸-/-d- -c-
+cº- tº- c- c- č- c- čº- c-
+-cº- -tº- -c- -c- -č- -c(c)- -čº- -c(c)-
+c’- t’- c’- c’- č- c- č- c-
+-c’- -t’- -c’- -c’- -č- -c(c)- -č- -c-
+s- s- s- s- s- c- s-
+-s- -s- -s- -s- -s- -c(c)- -s-
+z- s- z- z- s- z-
+-z- -s- -z- -z- -s-
+48
+Proto- Proto- Proto- Proto- Proto- Proto- Proto- Proto-
+Nostratic IE Kartvelian Afroasiatic Uralic Dravidian Altaic Eskimo
+¸- dº- ¸- μ- č- c- ¸- c-
+-¸- -dº- -¸- -μ- -č- -c(c)- -¸-/-d- -c-
+Dº- tº- D- c- č- c- čº- c-
+-Dº- -tº- -D- -c- -č- -c(c)- -čº- -c(c)-
+D’- t’- D’- c’- č- c- č- c-
+-D’- -t’- -D’- -c’- -č- -c(c)- -č- -c-
+š- s- š- s- s- c- s-
+-š- -s- -š- -s- -s- -c(c)- -s-
+g- gº- g- g- k- k- g- k- q-
+-g- -gº- -g- -g- -x- -k- -g- -¦-
+kº- kº- k- k- k- k- kº- k- q-
+-kº- -kº- -k- -k- -k(k)- -k(k)- -kº- -k(k)-
+-q(q)-
+k’- k’- k’- k’- k- k- k- k- q-
+-k’- -k’- -k’- -k’- -k- -k(k)- -k- -k- -q-
+g¦- g¦º- gw/u- g¦- k- k- g- k- q-
+-g¦- -g¦º- -gw/u- -g¦- -x- -k- -g- -¦-
+k¦º- k¦º- kw/u- k¦- k- k- kº- k- q-
+-k¦º- -k¦º- -kw/u- -k¦- -k(k)- -k(k)- -kº- -k(k)-
+-q(q)-
+k’¦- k’¦- k’w/u- k’¦- k- k- k- k- q-
+-k’¦- -k’¦- -k’w/u- -k’¦- -k- -k(k)- -k- -k- -q-
+ɢ- gº- ɢ- ɢ- (?) k- k- g- k- q-
+-ɢ- -gº- -ɢ- -ɢ- (?) -x- -k- -g- -¦-
+qº- kº- q- q- (?) k- k- kº- k- q-
+-qº- -kº- -q- -q- (?) -k(k)- -k(k)- -kº- -k(k)-
+-q(q)-
+q’- k’- q’- q’- (?) k- k- k- k- q-
+-q’- -k’- -q’- -q’- (?) -k -k(k)- -k- -k- -q-
+q’¦- k’¦- q’w/u- q’¦- (?) k- k- k- k- q-
+-q’¦- -k’¦- -q’w/u- -q’¦- (?) -k- -k(k)- -k- -k- -q-
+49
+Proto- Proto- Proto- Proto- Proto- Proto- Proto- Proto-
+Nostratic IE Kartvelian Afroasiatic Uralic Dravidian Altaic Eskimo
+˜º- kº- x- ˜- s¨- c- š- V-
+-˜º- -kº- -x- -˜- -δ- -k- -V-
+˜’- k’- ˜’- δ¨- t-
+-˜’- -k’- -˜’- -δ¨- -ṭ(ṭ)-
+¬- °- Ø- ¬- Ø- Ø- Ø- Ø-
+-¬- -°- -Ø- -¬- -Ø- -Ø- -Ø- -Ø-
+°- ¸- x- °- Ø- Ø- Ø- Ø-
+-°- -¸- -x- -°- -Ø- -Ø- -Ø- -Ø-
+#- #- Ø- #- Ø- Ø- Ø- Ø-
+-#- -#- -Ø- -#- -Ø- -Ø- -Ø- -Ø-
+h- h- Ø- h- Ø- Ø- Ø- Ø-
+-h- -h- -Ø- -h- -Ø- -Ø- -Ø- -Ø-
+y- y- y-/Ø- y- y- y-/Ø- y-
+-y- -y- -y- -y- -y- -y- -y-
+w- w- w- w- w- v-/Ø- v-
+-w- -w- -w- -w- -w- -v- -v-
+m- m- m- m- m- m- m- m-
+-m- -m- -m- -m- -m- -m- -m- -m-
+n- n- n- n- n- n- n- n-
+-n- -n- -n- -n- -n- -n-/-n- -n- -n-
+n¨- n- n- n¨- ñ- n¨-
+-n¨- -n- -n- -n¨- -ṇ- -n¨-
+-ŋ- -n- -n- -ŋ- -ṇ- -ŋ- -ŋ-
+l- l- l- l- l- l- l-
+-l- -l- -l- -l- -l- -l- -l- -l-
+-l¨- -l- -l- -l- -l¨- ḷ- -l¨- -y-
+r- -r- -r- -r- r-
+-r- -r- -r- -r- -r- -r-/-r- -r- -ʀ-
+-r¨- -r- -r- -r- -r¨- -8- -r¨-
+50
+B. Vowels:
+Proto- Proto- Proto- Proto- Proto- Proto- Proto- Proto-
+Nostratic IE Kartvelian Afroasiatic Uralic Dravidian Altaic Eskimo
+i i e i i i i i i
+ǝ e a ǝ e i i u e e e ǝ
+u u o u u u u u u
+e e e e e e e i
+a a o ǝ a a a ä a a a
+o o o o o o o u
+iy Òy ey ò ² iy i iy iy i iy ò iy
+ǝy ey ay Òy ey i iy uy ey ey ² ǝy
+uy Òy ò Ò uy i uy uy uy « uy
+ey ey Òy ² Ò ey i ey ey e ey ² iy
+ay ay oy Òy ay i ay ay äy ay X ay
+oy oy Òy Ò oy i oy oy oy e uy
+iw « ƒw ƒ iw u iw iw iv ò iv
+ǝw ew aw
+ƒw ƒ
+ew u iw uw ew ev ² ǝv
+uw « e ƒw
+ow ƒ
+uw u uw uw u uv « uv
+ew ew ƒw ƒ ew u ew ew ev ² iv
+aw ow ƒw ƒ aw u aw aw äw av X av
+ow e ow
+ƒw ƒ
+ow u ow ow o ov e uv
+Note: The Proto-Altaic vowels given above are according to Starostin—Dybo—
+Mudrak’s (2003) reconstruction. The developments of the sequences *iy, *ǝy,
+*uy, *ey, *ay, *oy, *iw, *ǝw, *uw, *ew, *aw, *ow in Proto-Altaic are unclear.
+51
+References
+Adams, Douglas Q.
+1988 Tocharian Historical Phonology and Morphology. New Haven, CT:
+American Oriental Society.
+1999 A Dictionary of Tocharian B. Amsterdam and Atlanta, GA: Editions
+Rodopi B.V.
+Anthony, David W.
+2007 The Horse, the Wheel, and Language. How Bronze Age Riders from
+the Eurasian Steppes Shaped the Modern World. Princeton, NJ, and
+Oxford: Princeton University Press.
+Beekes, Robert S. P.
+1969 The Development of the Proto-Indo-European Laryngeals in Greek.
+The Hague: Mouton.
+1995 Comparative Indo-European Linguistics: An Introduction.
+Amsterdam and Philadelphia, PA: John Benjamins.
+Bender, M. Lionel
+1975 Omotic: A New Afroasiatic Language Family. Cabondale, IL:
+University Museum, Southern Illinois University.
+2000 Comparative Morphology of the Omotic Languages. (= LINCOM
+Studies in African Linguistics 19.) Munich: Lincom Europa.
+Blažek, Václav
+1982 “Supplements to the First 20 Etymologies”, Linguistica XXII:239—
+248.
+1983 “Současný stav nostratické hypotézy (fonologie a grammatika)”,
+Slovo a Slovesnost 44:235—247.
+1984 “Finský přípĕvek k nostratické hypotéze”, Slovo a slovesnost
+44:235—247.
+1986 “Genetická klasifikace jazyků sveta ve svétle rekonstruovaných
+prajazyků neolitických až paleolitických jazykových jednot”,
+Jazykovédné Aktuality 23.1/2:41—44.
+1987 “Some Notes about New Korean Etymologies of G. J. Ramstedt”,
+Archív Orientální 55:156—161.
+1988a “Problémy a perspektivy nostratické hypotézy (fonologie)”, Slovo a
+Slovesnost XLIX:39—52.
+1988b “Tocharian Linguistics during Last 25 Years”, Archív Orientální
+56:77—81.
+1989a “The New Dravidian-Afroasiatic Parallels”. Manuscript.
+1989b “Lexica Nostratica: Addenda et Corrigenda I”, Archív Orientální
+57.3:201—210.
+1989c “Paralelní procesy ve vývoji indoevropského a afrasijského kořene”,
+Jazykovédné Aktuality 26.1/2:28—33.
+1990a “Lexica Nostratica: Addenda et Corrigenda II”, Archív Orientální
+58.3:205—218.
+52
+1990b “A Comparative Approach to Afrasian Numerals”, in: Hans G.
+Mukarovsky (ed.), Proceedings of the 5th International Hamito-
+Semitic Congress. Wien: Afro-Pub, pp. 20—44.
+1991a “Kartvelian Material in Nostratic Lexicon: New Etymologies”,
+Archív Orientální 59:360—369. (Reprinted in: Vitaly Shevoroshkin
+[ed.], Nostratic, Dene-Caucasian, Austric and Amerind. Bochum:
+Brockmeyer, pp. 112—128 [1992].)
+1991b “The Microsystems of Personal Pronouns in Chadic, Compared with
+Afroasiatic”. Manuscript.
+1992a “Kartvelian Material in Nostratic Lexicon: New Etymologies II”, in:
+Vitaly Shevoroshkin (ed.), Nostratic, Dene-Caucasian, Austric and
+Amerind. Bochum: Brockmeyer, pp. 129—148.
+1992b “Some Nostratic Etymologies”, in: Vitaly Shevoroshkin (ed.),
+Nostratic, Dene-Caucasian, Austric and Amerind. Bochum:
+Brockmeyer, pp. 245—265.
+1996 “The Semitic Divine Name *‘attar(-at-) and its Possible Afroasiatic
+Cognates”, in: Petr Zemánek (ed.), Studies in Near Eastern
+Languages and Literatures: Memorial Volume for Karel Petráček.
+Prague: Academy of Sciences of the Czech Republic Oriental
+Institute, pp. 133—141.
+1999a “Elam: A Bridge between the Ancient Near East and Dravidian
+India?”, in: Roger Blench and Matthew Spriggs (eds.), Archaeology
+and Language IV: Language Change and Cultural Transformation.
+London and New York, NY: Routledge, pp. 48—78. (Revised
+version published in Mother Tongue VII: 123—143 [2002].)
+1999b Numerals. Comparative-Etymological Analysis and their Impli-
+cations. Brno: Masarykova Univerzita v Brně.
+2002 “Some New Dravidian-Afroasiatic Parallels”, Mother Tongue
+VII:171—198.
+2003 “Lexica Nostratica Addenda”, Mother Tongue VIII:11—22.
+2004 “Indo-European and Afroasiatic Prepositions and Related Words:
+Common Heritage or a Result of Convergence?”, in: Irén Hegedűs
+and Paul Sidwell (eds.), Nostratic Centennial Conference: The Pécs
+Papers. Pécs: Lingua Franca Group, pp. 1—25.
+2005 “Current Progress in Altaic Etymology” (review of Starostin—
+Dybo—Mudrak, An Etymological Dictionary of the Altaic
+Languages), Folia Orientalia 52.1:237—254.
+2007 “From August Schleicher to Sergei Starostin: On the Development of
+the Tree-Diagram Models of the Indo-European Languages”, Journal
+of Indo-European Studies 35.1/2:82—109.
+2008 Chukcho-Kamchatkan and Uralic: Lexical Evidence of Their Genetic
+Relationship”, Mother Tongue XIII:209—225.
+2011 “Indo-European Laryngeals in Afroasiatic Perspective”, Journal of
+Language Relationship 5:1—22.
+2012 “On Nostratic ‘one’,” Mother Tongue XVII:119—124.
+53
+2013 “Afroasiatic Migrations”, in: Immanuel Ness and Peter Bell-wood
+(eds.), The Encyclopedia of Global Human Migration I. Oxford:
+Wiley-Blackwell, pp. 125—132.
+2014 “Indo-European Nominal Inflection in Nostratic Perspective”,
+Journal of Language Relationship 11:19—38.
+To appear “Afroasiatic Migrations: Linguistic Evidence”.
+Bomhard, Allan R.
+1984 Toward Proto-Nostratic: A New Approach to the Comparison of
+Proto-Indo-European and Proto-Afroasiatic. (= Current Issues in
+Linguistic Theory, volume 27.) Amsterdam: John Benjamins.
+1996 Indo-European and the Nostratic Hypothesis. Charleston, SC:
+SIGNUM Desktop Publishing.
+1999 Review of Aaron Dolgopolsky, The Nostratic Macrofamily and
+Linguistic Palaeontology, in: Colin Renfrew and Daniel Nettle
+(eds.), Nostratic: Examining a Linguistic Macrofamily. Cambridge:
+The McDonald Institute for Archaeological Research, pp. 47—74.
+2008 Reconstructing Proto-Nostratic: Comparative Phonology,
+Morphology, and Vocabulary. 2 vols. Leiden and Boston, MA: E.
+J. Brill.
+2009 “A Critical Review of Aharon Dolgopolsky’s Nostratic Dictionary.”
+Unpublished manuscript. Available on-line.
+2014a A Comprehensive Introduction to Nostratic Comparative Linguistics:
+With Special Reference to Indo-European. 4 vols. Published on-line
+under a Creative Commons license.
+2014b Afrasian Comparative Phonology and Vocabulary. Published on-
+line under a Creative Commons license.
+Bomhard, Allan R., and John C. Kerns
+1994 The Nostratic Macrofamily: A Study in Distant Linguistic
+Relationship. Berlin, New York, NY, and Amsterdam: Mouton de
+Gruyter.
+Buck, Carl Darling
+1949 A Dictionary of Selected Synonyms in the Principal Indo-European
+Languages. Chicago, IL: University of Chicago Press.
+Campbell, Lyle, and William J. Poser
+2008 Language Classification: History and Method. Cambridge:
+Cambridge University Press.
+Clackson, James
+2007 Indo-European Linguistics: An Introduction. Cambridge:
+Cambridge University Press.
+Couvreur, Walter
+1937 De Hettitische À: Een Bijdrage tot de Studie van het Indo-
+Europeesche Vocalisme. Louvain: Bibliothèque du Muséon.
+Diakonoff, Igor M.
+1965 Semito-Hamitic Languages. Moscow: Nauka.
+1988 Afrasian Languages. Moscow: Nauka.
+54
+1992 Proto-Afrasian and Old Akkadian: A Study in Historical Phonetics.
+(= Journal of Afroasiatic Languages 4.1/2.) Princeton, NJ: Institute
+of Semitic Studies.
+Dolgopolsky, Aharon
+1984 “On Personal Pronouns in the Nostratic Languages”, in: Otto
+Gschwantler, Károly Rédei, and Hermann Reichert (eds.),
+Linguistica et Philologica. Gedenkschrift für Björn Collinder
+(1894—1983). Vienna: Wilhelm Braumüller, pp. 65—112.
+1994 “Nostratic”, in: R. E. Asher (ed.), The Encyclopedia of Language
+and Linguistics. Oxford: Pergamon Press, volume 5, p. 2838.
+1998 The Nostratic Hypothesis and Linguistic Paleontology. Cambridge:
+The McDonald Institute for Archaeological Research.
+2008 Nostratic Dictionary. Published on-line by The McDonald Institute
+at: http://www.dspace.cam.ac.uk/handle/1810/196512.
+Dybo, Vladimir
+2004 “On Illič-Svityč’s Study ‘Basic Features of the Proto-Language of
+the Nostratic Language Family’,” in: Irén Hegedűs and Paul Sidwell
+(eds.), Nostratic Centennial Conference: The Pécs Papers. Pécs:
+Lingua Franca Group, pp. 115—119.
+Fortescue, Michael
+1998 Language Relations across Bering Strait: Reappraising the
+Archaeological and Linguistic Evidence. London and New York,
+NY: Cassell.
+2011 “The Relationship of Nivkh to Chukoto-Kamchatkan Revisited”,
+Lingua 121:1359—1376.
+Fortson, Benjamin W., IV
+2004 Indo-European Language and Culture: An Introduction. Oxford:
+Blackwell.
+[2010] [Second edition. Chichester: Wiley-Blackwell.]
+Gamkrelidze, Thomas V., and Vjačeslav V. Ivanov
+1984 Индоевропейский язык и индоевропейцы: Реконструкция и
+историкотипологический анализ праязыка и протокультуры. 2
+volumes. Tbilisi: Publishing House of the Tbilisi State University.
+1995 Indo-European and the Indo-Europeans: A Reconstruction and
+Historical Typological Analysis of a Protolanguage and a Proto-
+Culture. 2 volumes. English translation by Johanna Nichols. Berlin,
+New York, NY, and Amsterdam: Mouton de Gruyter.
+Greenberg, Joseph H.
+1990 “The Prehistory of the Indo-European Vowel System in Comparative
+and Typological Perspective”, in: Vitaly Shevoroshkin (ed.), Proto-
+Languages and Proto-Cultures. Bochum: Brockmeyer, pp. 77—
+136.
+2000—2002 Indo-European and Its Closest Relatives: The Eurasiatic Language
+Family. 2 volumes. Stanford, CA: Stanford Univer-sity Press.
+55
+Illič-Svityč, Vladislav M.
+1965 “Материалы к сравнительному словарю ностратических языков
+(индоевропейский, алтайский, уральский, дравидский,
+картвельский, семитохамитский)”, Этимология 1965:321—373.
+1971—1984 Опыт сравнения ностратических языков (семито-хамитский,
+картвельский, индоевропейский, уральский, дравидийский,
+алтайский). 3 volumes (1971, 1976, 1984). Moscow: Nauka.
+Kerns, John C.
+1967 Eurasiatic Pronouns and the Indo-Uralic Question. Fairborn, OH.
+1985 Indo-European Prehistory. Cambridge: Heffer and Sons.
+Kloekhorst, Alwin
+2008 Etymological Dictionary of the Hittite Inherited Lexicon. Leiden and
+Boston, MA: E. J. Brill.
+Kortlandt, Frederik
+2010a “C. C. Uhlenbeck on Indo-European, Uralic, and Caucasian”, in:
+Frederik Kortlandt, Studies in Germanic, Indo-European, and Indo-
+Uralic. Amsterdam and New York, NY: Rodopi, pp. 31—36.
+2010b “Indo-Uralic and Altaic”, in: Frederik Kortlandt, Studies in
+Germanic, Indo-European, and Indo-Uralic. Amsterdam and New
+York, NY: Rodopi, pp. 415—418.
+2010c “Indo-Uralic and Altaic Revisited”, in: Frederik Kortlandt, Studies
+in Germanic, Indo-European, and Indo-Uralic. Amsterdam and
+New York, NY: Rodopi, pp. 419—428.
+Krishnamurti, Bhadriraju
+2003 The Dravidian Languages. Cambridge: Cambridge University
+Press.
+Kuryłowicz, Jerzy
+1935 Études indoeuropéennes I. Kraków: Polish Academy.
+Lehmann, Winfred P.
+1952 Proto-Indo-European Phonology. Austin, TX: University of Texas
+Press.
+1993 Theoretical Bases of Indo-European Linguistics. London and New
+York, NY: Routledge.
+2002 Pre-Indo-European. (= Journal of Indo-European Studies
+Monograph no. 41.) Washington, DC: Institute for the Study of
+Man.
+Mallory, James P., and Douglas Q. Adams
+1997 Encyclopedia of Indo-European Culture. London and Chicago, IL:
+Fitzroy Dearborn Publishers.
+2006 The Oxford Introduction to Proto-Indo-European and the Proto-
+Indo-European World. Oxford and New York, NY: Oxford
+University Press.
+Manaster Ramer, Alexis
+1997 “Nostratic from a Typological Point of View”, Journal of Indo-
+European Studies 25.1/2:79—104.
+56
+Pedersen, Holger
+1931 The Discovery of Language: Linguistic Science in the Nineteenth
+Century. English translation by John Webster Spargo. Midland
+book edition 1962. Bloomington, IN: Indiana University Press.
+Pokorny, Julius
+1959—1969 Indogermanisches etymologisches Wörterbuch. 2 volumes (volume
+1, 1959 [dictionary]; volume 2 [indices], 1969). Bern: Francke
+Verlag.
+Ruhlen, Merritt
+1994 The Origin of Language: Tracing the Evolution of the Mother
+Tongue. New York, NY: John Wiley & Sons.
+Schmidt, Karl Horst
+1979a “Probleme des relativen Chronologie”, Incontri Linguistici 5:55—59.
+1979b “Zur Vorgesichte des indogermanischen Genussystems”, in: Bela
+Brogyanyí (ed.), Studies in Diachronic, Synchronic and Typological
+Linguistics: Festschrift for Oswald Szemerényi. Amsterdam: John
+Benjamins, part II, pp. 793—800.
+1980 “Zur Typologie des Vorindogermanischen”, in: Paolo Ramat (ed.),
+Indo-European Reconstruction and Indo-European Syntax:
+Proceedings of the Colloquium of the “Indogermanische
+Gesellschaft”, University of Pavia, 6—7 September 1979.
+Amsterdam: John Benjamins, pp. 91—112.
+Sinor, Denis
+1988 “The Problem of the Ural-Altaic Relationship”, in: Denis Sinor
+(ed.), The Uralic Languages: Description, History and Foreign
+Influences. Leiden: E. J. Brill, pp. 706—741.
+Sturtevant, Edgar H.
+1933 A Comparative Grammar of the Hittite Language. Baltimore, MD:
+Linguistic Society of America.
+[1951] [Revised edition. Vol. I. New Haven, CT: Yale University Press.]
+1942 The Indo-Hittite Laryngeals. Baltimore, MD: Linguistic Society of
+America.
+Szemerényi, Oswald
+1996 Introduction to Indo-European Linguistics. Translated from the 4th
+edition of Einführung in die vergleichende Sprachwissenschaft
+(1990) by David Morgan Jones, with additional notes and references.
+Oxford: Clarendon Press.
+Zaborski, Andrzej
+1990 “Preliminary Remarks on Case Morphemes in Omotic”, in: Richard
+J. Hayward (ed.), Omotic Language Studies. London: University of
+London, School of Oriental and African Studies, pp. 617—639.

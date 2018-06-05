@@ -1,0 +1,921 @@
+60   Martin Haspelmath
+an overview of the way in which different criteria have been applied by
+nine different authors (or author teams) in such test batteries.
+	 There is no doubt that the application of such test batteries yields
+important insights into the structure of the languages, but it does not
+provide solid evidence for a unitary word notion that can be applied across
+languages and that gives us a reliable way of distinguishing between mor-
+phology and syntax.
+5.  The word as a language-specific concept
+The difficulties with a universally applicable word concept have been
+known for quite a while, and many linguists have concluded that the word
+cannot be defined universally, but only in a language-specific way:
+	 (38)	 a.	
+Bazell (1958: 35): “Now there is perhaps no unit over which there
+is less agreement than the word. If there is any agreement at all,
+arrive at the conclusion that an element is either a clitic or an affix, certain criteria must be
+assumed to be less crucial.” But if different authors assume that different criteria are ‘less
+crucial’, no agreement can be reached.
+Table 1.  Nine studies that examine wordhood using test batteries
+Zwicky
+&
+Pullum
+1983
+Kanerva
+1987
+Bresnan
+&
+Mchombo
+1995
+Ackema
+&
+LeSourd
+1997
+Monachesi
+1999
+Harris
+2000
+Milićević
+2005
+Lieber
+&
+Scalise
+2006
+Bickel
+et
+al.
+2007
+Free occurrence + +
+External mobility and internal fixedness + + + +
+Uninterruptibility + +
+Non-selectivity + + + + + +
+Non-coordinatability + + + + + +
+Anaphoric islandhood + +
+Nonextractability + +
+Morphophonological idiosyncrasies + + + + +
+Deviations from biuniqueness +
+The indeterminacy of word segmentation    61
+it is that the word has to be differently defined for each language
+analysed.”
+b.	
+Martinet (1960: 112): “Il serait vain de chercher à définir précisément
+cette notion [i.e. la notion de mot] en linguistique générale. On
+peut tenter de le faire dans le cadre d’une langue donné.” [‘It would
+be futile to attempt to define this notion [i.e. the word notion] in
+a precise way in general linguistics. One can try to do it within a
+particular language.’]
+c.	
+Lyons (1968: 206): “It follows from these facts that what we call
+‘words’ in one language may be units of a different kind from the
+‘words’ in another language.”
+d.	
+Wurzel (1984: 35): “Was in einer Sprache ein morphologisches Wort
+ist, wird durch die einzelsprachlichen morphologischen Regular-
+itäten bestimmt.” [‘The language-specific morphological regularities
+determine what is a word in a language.’]
+e.	
+Spencer (2006: 129): “There may be clear criteria for wordhood in
+individual languages, but we have no clear-cut set of criteria that can
+be applied to the totality of the world’s languages. . .”
+On this view, there is thus no general word concept, and the term word
+potentially has as many different meanings as there are languages. The
+same should apply to the terms morphology and syntax, which cannot be
+defined in any other way than in terms of some word concept.
+	 On such a view, the claim that “all languages have words” (Radford
+et al. 1999: 145) would be interpretable only in the weaker sense that
+“all languages have a unit which falls between the minimal sign and the
+phrase” (Bauer 2000: 255).21
+But this claim is very weak indeed if it is not
+specified what criteria can be used for identifying such a unit. In fact, given
+the criteria in Section 3, it is clear that in most languages one could set
+up a fairly large number of such intermediate units if one wanted. One
+21 
+Incidentally, another view for which the word notion ends up being non-universal is the
+idea that the cross-linguistic word concept is not applicable to all languages. For example,
+Hockett (1944: 255) claims that “there are no words in Chinese”, van Wyk (1968: 557) claims
+that “French is an example of a language with fairly low overall word autonomy, whereas
+the word autonomy of English, Dutch and German is comparatively high in general”, and
+Mugdan (1994: 2552) says that “some languages evidently lack a word level altogether”
+(cf. also Milewski 1951: 248–249). These authors thus seem to assume the word as a cross-
+linguistically valid category, but as a category that not all languages need to instantiate. This
+would entail that only some languages have a syntax–morphology distinction, while other
+languages lack it. This idea is weaker than the widespread assumption criticized throughout
+this article (that all languages have such a distinction), but to be viable, this approach would
+still have to come up with a way of identifying words consistently across languages.
+62   Martin Haspelmath
+might posit units such as (complex) stems, words with level-I  affixes,
+words-plus,22
+words with type-III incorporation,23
+clitic groups, tight com-
+pounds, loose compounds, tightly knit phrases, configurational phrases,
+non-configurational phrases, and many further units for which new terms
+would have to be made up. Some of these will be very well motivated, some
+less well. The basic problem remains the same: The units are defined in a
+language-specific way and cannot be equated across languages, and there is
+no reason to give special status to a unit called ‘word’. What we can assert
+with great confidence is that all languages have different degrees of tight-
+ness of minimal sign combinations. There is no language that is both thor-
+oughly isolating and thoroughly non-configurational: isolating languages
+tend to be highly configurational, and non-configurational languages tend
+to be highly synthetic. This generalization is highly significant, as it is not
+difficult to imagine a language in which all sign combinations are equally
+tight. The organization of human languages in terms of different degrees of
+tightness of sign combinations is quite possibly an innate design feature of
+language. But this does not mean that ‘word’, ‘morphology’ and ‘syntax’ are
+useful concepts for general linguistics.
+6.  The word as a fuzzy concept
+Another way of addressing the problems with defining the concept of
+morphosyntactic word is to posit a fuzzy (or ‘prototypical’, or ‘canonical’)
+concept of word. Something like this has been done implicitly by many
+authors who have written on the issue. Already Sweet (1913) regarded the
+English articles the and a as ‘half-words’, and Wurzel (1984: 36) revives
+this under the heading of ‘semi-word’ (his examples are cases intermedi-
+ate between traditional words and phrases, such as Icelandic hund-s-ins
+[dog-GEN-DEF-GEN] ‘the dog’s’, with internal case agreement, or English
+the Queen of England’s mother, with word-like edge-located inflection).
+A few quotations that explicitly admit fuzzy boundaries between words
+and phrases, or words (clitics) and affixes are given in (39).
+	 (39)	 a.	
+Bloomfield (1933: 181): “many forms lie on the border-line between
+bound forms and words, or between words and phrases; it is impos-
+sible to make a rigid distinction . . .”
+22 
+cf. Kageyama (2001).  23 
+cf. Mithun (1984).
+The indeterminacy of word segmentation    63
+b.	
+Lyons (1968: 204): “even if [the English article] is taken to be a word,
+it is not so ‘fully’ a word as other elements to which all the relevant
+criteria apply.”
+c.	
+Mel’čuk (1993: 183): “puisque le concept [vague] d’autonomie . . .
+est sou-jacent au concept de mot-forme, nous pouvons en déduire
+que ce dernier est vague lui aussi” [‘since the [vague] concept of
+autonomy underlies the concept of word-form, we can deduce that
+the latter is also vague’]
+d.	
+Mugdan (1994): “the differences [between clitic and affix] are
+gradual and clear dividing lines are not easy to draw.”
+e.	
+Aikhenvald (2002: 43): “These parameters provide us with a scalar
+definition of clitics: each prosodically deficient morpheme occupies
+a particular place within a multidimensional continuum, from a
+fully bound to a fully independent morpheme.”
+If ‘word’ is a fuzzy concept, it might still be universal, i.e. the conclusions
+drawn by the authors cited earlier in (38) might be premature. However, if
+‘word’ is a fuzzy concept, the consequence is that the difference between
+words and phrases cannot be modelled by positing two separate compo-
+nents of grammar, morphology and syntax. One could continue using the
+notions of morphology and syntax, but as fuzzy concepts.
+	 In order to show that a fuzzy concept of word is theoretically significant,
+one would have to demonstrate that grammatical units are not randomly
+distributed over the continuum between fully bound and fully indepen-
+dent units (cf. Aikhenvald’s conception in (39e)), but that they cluster
+significantly. Figure 1 schematizes two different hypothetical situations that
+are both compatible with a fuzzy word concept and a continuum view of
+the morphology–syntax distinction.
+	 In the first hypothetical situation (clustering distribution), there are
+three clearly discernible clusters: If the dimension along which the units
+differ (the boundness scale) can be quantified, the clustering can be dem-
+onstrated by statistical techniques. There are intermediate cases between
+the clusters of affixes, clitics, and independent words, but these are few and
+are just exceptions to the rule.
+	 In the second hypothetical situation (random distribution), the units
+are randomly distributed over the boundness scale. One can arbitrarily
+decide to call certain segments of the scale ‘affixes’, ‘clitics’ and ‘indepen-
+dent words’ (cf. the vertical lines in Figure 1B), but since the units do not
+cluster, such a subdivision would have no theoretical significance (it might
+64   Martin Haspelmath
+have practical significance, of course, e.g. for orthographic conventions).
+One could just as easily subdivide the continuum into two, four, or five
+named segments.
+	 Both of the hypothetical distributions in Figure 1 could be described
+as entailing a fuzzy word concept. The authors cited in (39) presumably
+assumed the clustering distribution rather than the random distribution,
+but we do not have the empirical evidence yet to show that a clustering
+actually obtains in real languages. Our intuitions that tend to favour the
+clustering distribution may well be coloured by the long tradition of look-
+ing at language structure in terms of spelling-defined words and clauses.
+	 So this is an open question, and systematic empirical research on the
+basis of a diverse range of languages is needed before we can make a judge-
+ment. We should also be open to the possibility that other kinds of clusters,
+e.g. ‘affixoid’, ‘clitic group’, ‘tight phrases’, or ‘stems’ will turn out to be more
+significant than the word clustering. This would have the consequence
+that the primary division within morphosyntax would not be between
+morphology and syntax, but along other lines. The question is an empirical
+one, and should be approached in this way,24
+rather than a priori.
+24 
+Unfortunately, an empirical test is difficult, because the nature of the population to be
+sampled is not entirely clear, and it is not clear how the boundness scale should be quanti-
+fied. The population from which we want to test a sample is the set of grammatical units
+in the world’s languages, but this is of course an open-ended set. Single-morph affixes and
+clitics are relatively straightforward (because they constitute a finite, relatively small set),
+but we also need to compare these to larger units (word-level and phrase-level), and the
+elements of these larger units are not a closed class. The boundness scale could be quantified
+by applying some of the criteria of Section 3, but it is quite unclear how these criteria should
+be weighted, whether all of them are relevant, and what other criteria might be important.
+Different linguists will have very different views. Aikhenvald calls the continuum ‘multidi-
+mensional’ (cf. 39e), and finding clusters in a multidimensional space is even more difficult.
+A.  Clustering distribution
+have to demonstrate that grammatical units are not randomly distributed over the
+"continuum" between "fully bound" and "fully independent" units (cf. Aikhenvald's
+conception in (39e)), but that they cluster significantly. Figure 1 schematizes two
+different hypothetical situations that are both compatible with a fuzzy word concept
+and a continuum view of the morphology-syntax distinction.
+Figure 1: Clustering vs. random distribution of grammatical units
+A. Clustering distribution
+. . . . . . .............. . .. . . . . . . .. ............ .. . . . .. . . ...... ........... .. . . . .
+affixes clitics independent words
+B. Random distribution
+. .. . . . . . . . . .. . . . . . . . . . . .. . . .. . . . . . . . . . .. . . . . . .. . . . ..
+affixes | clitics | independent words
+In the first hypothetical situation (clustering distribution), there are three clearly
+discernible clusters: If the dimension along which the units differ (the boundness
+scale) can be quantified, the clustering can be demonstrated by statistical techniques.
+There are intermediate cases between the clusters of affixes, clitics, and independent
+words, but these are few and are just exceptions to the rule.
+In the second hypothetical situation (random distribution), the units are randomly
+distributed over the boundness scale. One can arbitrarily decide to call certain segments
+of the scale "affixes", "clitics" and "independent words" (cf. the vertical lines in Figure
+1B), but since the units do not cluster, such a subdivision would have no theoretical
+significance (it might have practical significance, of course, e.g. for orthographic
+conventions). One could just as easily subdivide the continuum into two, four, or five
+named segments.
+Both of the hypothetical distributions in Figure 1 could be described as entailing a
+fuzzy word concept. The authors cited in (39) presumably assumed the clustering
+	 affixes		 clitics		 independent words
+B.  Random distribution
+"continuum" between "fully bound" and "fully independent" units (cf. Aikhenvald's
+conception in (39e)), but that they cluster significantly. Figure 1 schematizes two
+different hypothetical situations that are both compatible with a fuzzy word concept
+and a continuum view of the morphology-syntax distinction.
+Figure 1: Clustering vs. random distribution of grammatical units
+A. Clustering distribution
+. . . . . . .............. . .. . . . . . . .. ............ .. . . . .. . . ...... ........... .. . . . .
+affixes clitics independent words
+B. Random distribution
+. .. . . . . . . . . .. . . . . . . . . . . .. . . .. . . . . . . . . . .. . . . . . .. . . . ..
+affixes | clitics | independent words
+In the first hypothetical situation (clustering distribution), there are three clearly
+discernible clusters: If the dimension along which the units differ (the boundness
+scale) can be quantified, the clustering can be demonstrated by statistical techniques.
+There are intermediate cases between the clusters of affixes, clitics, and independent
+words, but these are few and are just exceptions to the rule.
+In the second hypothetical situation (random distribution), the units are randomly
+distributed over the boundness scale. One can arbitrarily decide to call certain segments
+of the scale "affixes", "clitics" and "independent words" (cf. the vertical lines in Figure
+1B), but since the units do not cluster, such a subdivision would have no theoretical
+significance (it might have practical significance, of course, e.g. for orthographic
+conventions). One could just as easily subdivide the continuum into two, four, or five
+named segments.
+Both of the hypothetical distributions in Figure 1 could be described as entailing a
+fuzzy word concept. The authors cited in (39) presumably assumed the clustering
+	 affixes	 |	 clitics	 |	 independent words
+Figure 1.  Clustering vs. random distribution of grammatical units
+The indeterminacy of word segmentation    65
+7.  Consequences of the indeterminacy of word segmentation
+That the word is difficult to define has long been recognized; quotations
+such as those in (40) abound in the literature.
+	 (40)	 a.	
+Jespersen (1924: 92): “What is a word? and what is one word? These
+are very difficult problems. . .”
+b.	 Langacker (1972: 37): “The word is a difficult notion to define.”
+c.	
+Matthews (1991: 208): “There have been many definitions of the
+word, and if any had been successful I would have given it long ago,
+instead of dodging the issue until now.”
+However, linguists have generally shied away from the seemingly unavoid-
+able conclusion:
+	 (41)	
+Linguists have no good basis for identifying words across languages,
+and hence no good basis for a general distinction between syntax and
+morphology as parts of the language system.
+One occasionally finds statements such as Garvin’s “It is not so certain
+that we know how to isolate words, and hence how to separate morphol-
+ogy from syntax” (1954: 345), or Weber’s “morphology and syntax are not
+distinct . . . word boundaries and morpheme boundaries should not be
+distinguished” (1983: 178),25
+but the vast majority of linguists have contin-
+ued doing business as usual.26
+	 I maintain that at least three practical consequences follow from the
+recognition of the indeterminacy of word segmentation:
+25 
+Schwegler’s (1990: 45) negative conclusion is even more explicit, though he does not
+mention the morphology–syntax division:
+After generations of 19th- and 20th-century linguists had taken the ‘word’ largely for granted, struc-
+turalists set out to define what in popular as well as in scientific circles was regarded as the basic unit
+of speech . . . this lively discussion eventually led to the now generally accepted conclusion that (a) the
+‘word’ cannot be defined by a single (or for that matter, multiple) common denominator, and (b) not
+all segments of speech are ‘words’ in the proper sense of the term.
+However, I do not think that this conclusion was ever ‘generally accepted’ (certainly not in
+the 1980s).
+26 
+Jacobs (forthcoming) (whose paper came to my attention after this article had been com-
+pleted) arrives at the same negative conclusion on the basis of German data, but at the end
+of his paper, he notes that for many purposes, doing business as usual is not problematic.
+I agree, but here I focus on those theoretical concerns for which the negative conclusions
+do have significant repercussions.
+66   Martin Haspelmath
+	 (42)	 a.	
+Linguists who believe that words exist as a cross-linguistically
+identifiable category should try to find ways of identifying words
+consistently.
+b.	
+Linguists who are not committed should stop worrying about the
+morphology–syntax division.
+c.	
+Linguists of either category should be very careful with claims that
+presuppose the word concept.
+Inaddition,ofcourse,comparativelinguistsshouldtrytodetermineempiri-
+cally whether the various word criteria yield a clustering distribution, as
+discussed in Section 6, but this is not as urgent as (42a–c), because clusters
+might be found in all kinds of places in languages where no traditional
+notions lead us to suspect them. The really serious problem resulting from
+the indeterminacy of word segmentation is that linguists often presuppose
+the word concept and the morphology–syntax division, and even try to
+use it for explanatory purposes. Some of the contexts in which the word
+as a cross-linguistic category and/or the syntax–morphology division are
+presupposed are listed in (43).
+	 (43)	 a.	
+the Lexical Integrity Hypothesis (e.g. Bresnan & Mchombo 1995; see
+Section 8 below)
+b.	
+claims about the nature of creole languages (e.g. McWhorter 2001,
+2005, referring to lack of inflectional morphology)
+c.	
+claims about variable complexity of language structure (e.g. Samp-
+son 2009)
+d.	
+claims about an analyticity preference in Second Language Acquis-
+tion (e.g. Klein & Perdue 1997: 311)
+e.	
+claims about morphological change driving syntactic change (e.g.
+Lightfoot, ed. 2002)
+f.	
+claims about a general preference for suffixing over prefixing (e.g.
+Greenberg 1957, Bybee et al. 1990)
+g.	
+typological claims about affixal vs. periphrastic marking in typology,
+e.g. Dahl & Velupillai (2005, on inflectional future tense), Iggesen
+(2005, on number of inflectional cases), Dryer (2005c, on pronom-
+inal possessive affixes)
+All of these claims are problematic as they can be tested only with a good
+definition of morphosyntactic wordhood. Some of them may well turn out
+to be correct in some version, once the nature of the claim has been clari-
+fied, and others may turn out to be quite illusory. For example, Sampson
+(2009: 3) cites the huge number of inflected verbal forms in Archi (about
+1.5 million according to Kibrik 1998) as an evident example of ‘complex-
+The indeterminacy of word segmentation    67
+ity’, but he does not say that the vast majority of these inflected forms
+are completely regular and predictable by rule. Any isolating language of
+course has a vast number of possible constructs involving verbs and vari-
+ous functional elements (negation, tense, aspect, mood, subject and object
+pronouns, etc.), resulting in exactly the same complexity, differing primar-
+ily in spelling. Speakers of contemporary Western European languages
+traditionally find languages with rich morphology such as Latin difficult,
+and languages with even longer words such as Turkish or Archi look even
+more forbidding, but this impression should not be confused with the idea
+that Turkish or Archi are in some general sense more complex than Span-
+ish or Swedish. Similarly, creole languages are often thought of as lacking
+inflectional morphology (McWhorter 2001, 2005), and it is clear that they
+generally lack the inflectional affixes of their lexifiers. But creole verbs are
+typically associated with preverbal tense-aspect, modality and polarity
+markers (cf. (44) from Seychelles Creole; Susanne Michaelis, p.c.) which
+might well be prefixes rather than separate words.
+	(44)	 Nou pa ti pe manz.
+we NEG PST PROG eat
+‘We were not eating.’
+8.  The notion of lexical integrity
+In structuralist linguistics of the first half of the 20th century, the word
+concept was downplayed by many theoretically oriented linguists (cf.
+Schwegler 1990: 45, Albrecht 2002). In American structuralism, “the
+traditional word was not part of the final formal analysis” (Robins 2002:
+143), and the European structuralists Charles Bally and André Martinet
+used the term ‘word’ only in inverted commas (Matthews 2002: 266).
+This view was inherited by early generative grammar, which also made no
+distinction between syntax and morphology. But since the 1970s, the idea
+of a syntax–morphology distinction became prevalent again in generative
+circles, under the heading of ‘lexicalism’ or ‘lexical integrity’. This was not
+prompted by any progress in defining the word in universal terms; on the
+contrary, such attempts were largely given up.27
+But linguists now focused
+27 
+Characteristically, Langacker (1972) was the last prominent linguistics textbook that
+included a substantial discussion of the word concept (pp. 36–55). Later textbooks of
+68   Martin Haspelmath
+on some of the differences in behaviour between word parts and phrasal
+elements, and soon the idea that there is a principled distinction between
+syntactic and morphological regularities was formulated and met with
+widespread acceptance. The Lexical Integrity Hypothesis was variously
+formulated as in (45).
+	 (45)	 a.	 Lapointe (1980: 8; Generalized Lexicalist Hypothesis)
+	 No syntactic rule can refer to elements of morphological structure.
+b.	
+Selkirk (1982: 70; Word Structure Autonomy Condition)
+	
+No deletion or movement transformation may involve categories of
+both W[ord]-structure and S[entence]-structure.
+c.	 Anderson (1992: 84; Lexicalist Hypothesis)
+	
+The syntax neither manipulates nor has access to the internal
+structure of words.
+The problem with such formulations is that in the absence of a full charac-
+terization of syntax (or S-structure) and morphology (or word), they are
+partly circular (cf. Sproat 1988: 298–299, Julien 2002: 28). If we found that
+something that is written as one word has parts that can be manipulated in
+the sense of being ellipted in coordination, fronted by topicalization rules,
+extended by additional modifiers, etc., then we would probably conclude
+that the item is not in fact one word. The claims in (45) thus come dan-
+gerously close to saying that linguistic sign combinations that cannot be
+manipulated by syntactic rules cannot be manipulated by syntactic rules.
+In any event, the empirical import of such claims is not particularly clear.28
+	 Another way of stating the notion of lexical integrity that avoids the
+danger of circularity is the claim that “the principles that regulate the
+internal structure of words are quite different from those that govern
+sentence structure” (Katamba 1993: 217), or that “words are built out of dif-
+ferent structural elements and by different principles of composition than
+syntactic phrases” (Bresnan & Mchombo 1995: 181). But such claims are
+very weak: While it may be that words and phrases are ‘different’ in some
+general linguistics or of syntax simply presuppose that words exist as a universally valid
+category (though morphology textbooks often include a discussion of the word concept).
+28 
+Moreover, there is a large amount of potential counterevidence to lexical integrity that
+has been discussed in the literature; cf. Lieber & Scalise (2006) and Booij (2009) for recent
+reviews from a sympathetic perspective, and Julien (2002: ch. 1) for a critical assessment
+from a minimalist perspective. Booij (2009: 97) states that “the word remains an essential
+unit for stating regularities” but does not try to argue for this position.
+The indeterminacy of word segmentation    69
+ways, they are also very similar in many ways, and there are also striking
+differences between different kinds of words, as well as differences between
+different kinds of phrases. That the distinction between words and phrases
+should have a special status is not warranted by the evidence that has been
+presented in favour of lexical integrity.
+9.  What does this mean in practice?
+Talking about words is deeply entrenched in linguists’ habits, and a fre-
+quently asked question is: How do we go about our everyday grammatical
+analysis (e.g. as field linguists, as computational linguists, as psycholin-
+guists) if we cannot rely on theoretical morphologists and syntacticians
+to provide us with a well-motivated universally applicable distinction
+between morphology and syntax, between words and phrases?
+	 There are two answers, a simpler one and a more complex, more
+advanced one. The simpler answer is that nothing needs to change in our
+way of talking about our entities, as long as we change our way of thinking
+about them. We can simply continue calling an expression like book+s a
+word, and expressions like the+book a phrase, as long as we do not thereby
+imply that words and phrases necessarily have different properties (in
+particular, fundamentally different properties). After all, we continue using
+the usual spelling in many cases, simply because it is convenient, without
+implying that the orthographic representation has any theoretical status.
+A word would then simply be any linguistic expression that has a space
+before it and after it and no space in the middle, either in the conventional
+spelling or (for unwritten languages or languages with no spacing in the
+spelling) in the linguist’s transcription. This would solve most of the prac-
+tical problems of descriptive linguistics, because in the great majority of
+concrete research contexts, the kinds of issues discussed in this article are
+not relevant anyway.
+	 But in cross-linguistic and general contexts (such as those of (43)),
+the issues are relevant, and here we need a more complex and advanced
+answer. I  propose that for the purposes of cross-linguistic comparison,
+we limit ourselves to more primitive concepts that are readily definable in
+cross-linguistic terms (i.e. to comparative concepts, cf. Haspelmath 2010),
+such as those in (46).
+70   Martin Haspelmath
+	 (46)	 a.	 formative: 	
+a minimal coherent set of phonological features
+that plays a role in the language system (= a
+minimal sign)
+b.	 morph:	 a formative that biuniquely expresses a meaning
+c.	 root:	 a morph with a concrete meaning
+d.	 construct: 	
+a set of formatives that together play a role in the
+language system
+e.	 bound construct: 	
+a construct that cannot occur on its own as a
+complete utterance
+f.	 free construct:	
+a construct that may occur on its own as a
+complete utterance
+Thus, all words and phrases are constructs that can be decomposed into
+their component constructs until the level of formatives is reached. All
+clitics and affixes are bound constructs, and all lexical items have citation
+forms that are free constructs. Many more of these cross-linguistically
+applicable comparative concepts can easily be created (separatable con-
+structs, coordinatable constructs, etc.).
+	 These definitions are not without problems either, of course, but they
+do not appeal to language-specific properties, and they avoid the danger
+of bias from our writing habits. Reformulating cross-linguistic generaliza-
+tions in terms of truly comparative concepts such as those in (46) will not
+be an easy task, but in view of the difficulties with the traditional word
+concept, there is probably no alternative to it.
+	 To conclude this section, let me illustrate the practical consequences by
+answering four questions that one reviewer asked and that some readers
+may wonder about:
+	(47)	 Question:	
+If there are no words, how can children have a one-word
+stage in talking? (why not a one-stem stage?)
+Answer:	
+The ‘one-word stage’ is probably really a ‘one-root stage’, but
+this probably differs from language to language, and even
+from child to child.
+	(48)	 Question:	
+If there are no words, how can those languages which use an
+orthography in which word-boundaries are marked agree on
+where they belong?
+Answer:	
+‘Words’ as language-specific units are often unproblematic
+(Section 5), but the criteria employed in different languages
+are often very different. And the rules may be idiosyncratic,
+without clear relation to the language system (Section 2.3).
+The indeterminacy of word segmentation    71
+	(49)	 Question:	 If there are no words, how come dictionaries are so useful?
+Answer:	
+Dictionaries generally list the roots and unpredictable morph
+combinations of a language, i.e. words and many kinds of
+phraseological units. The idea that dictionaries are just lists of
+‘words’ is too simplistic anyway.
+	(50)	 Question:	
+If there are no words, what is a word-for-word translation?
+Answer:	
+Morpheme-by-morpheme translations and phrase-by-phrase
+translations are also often practiced, and in many cases they
+are more useful than word-for-word translations. Words do
+not have special status in literal translations.
+10. Conclusion
+In the closing session of the 6th International Congress of Linguists, held in
+Paris in 1948, congress president Joseph Vendryes remarked that modern
+linguistics was in a crisis, and that linguists were not even in agreement on
+what a word is, one of the fundamental concepts of their object of studies (cf.
+Togeby 1949: 97). In this article, I do not offer a more optimistic conclusion
+on the issue of defining the word, but I do not think that this is an expression
+of a crisis of our field. On the contrary, as long as we are biased by writing
+habits and by the structures of a few languages that happen to be very well
+studied and widely known, our field is not fully mature. The very search
+for a definition of the concept ‘word’ seems to be guided by the unstated
+presupposition that something like the word must exist in languages, just
+as it exists in alphabetic writing. But a scientific approach to language struc-
+ture should imply that we do not take any traditional concept for granted,
+and that we posit only those categories that we can argue for in describing
+language structure. Moreover, we should describe each language in its own
+terms, rather than assume aprioristically that a concept that has been found
+useful for one language must also be applicable for another language.
+	 I conclude from the arguments presented in this article that there is no
+definition of ‘word’that can be applied to any language and that would yield
+consistent results that are in accord with our writing habits. This is not a
+problem for descriptive (i.e. language-specific) linguistics, because ad hoc
+notions can be easily created for each particular language, and often it will
+be possible to define ‘word in language X’ in such a way that the spelling is
+predicted by the definition.
+72   Martin Haspelmath
+	 However, we also want to compare languages with respect to issues such
+as analyticity and syntheticity, complexity, and types of morphological
+marking (e.g. cumulative vs. separatist encoding, stem alternation vs. pure
+concatenation). For such questions, we need comparative concepts that are
+universally applicable (cf. Section 9). This is an important task for future
+research.
+	 The conclusion that we do not know what words are also means that
+we have no good basis for a morphology–syntax distinction. The part of
+(the study of) language structure that deals with sign combinations can
+be called morphosyntax, and for theoretical purposes this is currently best
+viewed as a unitary domain.
+References
+Ackerman, Farrell & LeSourd, Philip. 1997. Toward a lexical representation of
+phrasal predicates. In Alex Alsina, Joan Bresnan & Peter Sells, eds. Complex
+predicates. Stanford: CSLI, 67–106.
+Aguado, Miquel & Grzegorz Dogil. 1989. Clitics in lexical phonology. Linguistische
+Berichte 120: 99–116.
+Aikhenvald, Alexandra Y. 2002. Typological parameters of clitics, with special
+reference to Tariana. In R. M. W. Dixon & Alexandra Y. Aikhenvald, eds. Word:
+A cross-linguistic typology. Cambridge: Cambridge University Press, 1–41.
+Albrecht, Jörn. 2002. Das Wort im europäischen Strukturalismus. In D. Alan
+Cruse, Franz Hundsnurscher, Michael Job & Peter Rolf Lutzeier, eds. Lexi-
+cology: An international handbook on the nature and structure of words and
+vocabularies, vol. I. Berlin: Walter de Gruyter, 138–143.
+Anderson, Stephen. 1992. A-morphous morphology. Cambridge: Cambridge Uni-
+versity Press.
+Anderson, Stephen R., Lea Brown, Alice Gaby & Jacqueline Lecarme. 2006. Life
+on the edge: There’s morphology there after all. Lingue e Linguaggio 1: 1–16.
+Aronoff, Mark. 1994. Morphology by itself. Cambridge, MA: MIT Press.
+Aronoff, Mark & Kirsten Fudeman. 2005. What is morphology? Oxford: Blackwell.
+Atoyebi, Joseph Dele. 2010. A reference grammar of Oko. Cologne: Rüdiger Köppe
+Verlag.
+Aydemir, Yasemin. 2004. Are Turkish preverbal bare nouns syntactic arguments?
+Linguistic Inquiry 35: 465–474.
+Bally, Charles. 1913 [1965]. Le langage et la vie. Geneva: Droz.
+Bauer, Laurie. 1988. Introducing linguistic morphology. Edinburgh: Edinburgh Uni-
+versity Press.
+The indeterminacy of word segmentation    73
+Bauer, Laurie. 2000. Word. In Geert E. Booij, Christian Lehmann & Joachim
+Mugdan, eds. Morphology: An international handbook on inflection and word-
+formation, vol. 1, 247–257. Berlin: Walter de Gruyter.
+Bauer, Laurie & Rodney Huddleston. 2002. Lexical word-formation. In Rodney
+Huddleston & Geoffrey K. Pullum et al. The Cambridge grammar of the English
+language. Cambridge: Cambridge University Press, 1621–1721.
+Bazell, C. E. 1958. Linguistic typology: An inaugural lecture delivered on 26 February
+1958. London: School of Oriental and African Studies.
+Bermúdez-Otero, Ricardo & John Payne. Forthcoming. There are no special
+clitics. To appear in: Alexandra Galani, Glyn Hicks & George Tsoulas, eds.
+Morphology and its interfaces. Amsterdam: Benjamins.
+Bickel, Balthasar, Goma Banjade, Martin Gaenszle, Elena Lieven, Netra Paudyal,
+Ichchha Purna Rai, Manoj Rai, Novel Kishor Rai & Sabine Stoll. 2007. Free
+prefix ordering in Chintang. Language 83: 43–73.
+Bisetto, Antonietta & Sergio Scalise. 1999. Compounding: Morphology and/or
+syntax? In Lunella Mereu, ed. 1999. Boundaries of morphology and syntax.
+Amsterdam: Benjamins, 31–48.
+Blevins, Juliette. 2001. Nhanda: An aboriginal language of Western Australia.
+Honolulu: University of Hawaii Press.
+Bloomfield, Leonard. 1933. Language. New York: Holt.
+Boas, Franz. 1911. Introduction. In Franz Boas, ed. Handbook of American Indian
+languages, part 1 (Bureau of American Ethnology, Bulletin 40). Washington:
+Government Printing Office, 1–83.
+Booij, Geert. 1985. Coordination reduction in complex words: A case for prosodic
+phonology. In Harry van der Hulst & Norval Smith, eds. Advances in nonlinear
+phonology, vol. 7. Dordrecht: Foris, 143–160.
+Booij, Geert. 2009. Lexical integrity as a morphological universal: A construc-
+tionist view. In Sergio Scalise, Elisabetta Magni & Antonietta Bisetto, eds.
+Universals of language today. Berlin: Springer, 83–100.
+Booij, Geert. 2010. Construction morphology. Oxford: Oxford University Press.
+Börjars, Kersti. 1998. Feature distribution in Swedish noun phrases. Oxford: Black-
+well.
+Bowe, Heather J. 1990. Categories, constituents, and constituent order in Pitjantjat-
+jara: An aboriginal language of Australia. London: Routledge.
+Bresnan, Joan. 1974. On the position of certain clause-particles in phrase structure.
+Linguistic Inquiry 5, 614–619.
+Bresnan, Joan & Sam M. Mchombo. 1995. The lexical integrity principle: Evidence
+from Bantu. Natural Language and Linguistic Theory 13: 181–254.
+Broadwell, George Aaron. 2008. Turkish suspended affixation is lexical sharing. In
+Miriam Butt & Tracy Holloway King, eds. Proceedings of the LFG08 Conference.
+Stanford: CSLI Publications. http://www.csli-publications.stanford.edu/.
+74   Martin Haspelmath
+Bybee, Joan L., William Pagliuca & Revere D. Perkins. 1990. On the asymmetries
+in the affixation of grammatical material. In William Croft, Keith Denning &
+Suzanne Kemmer, eds. Studies in typology and diachrony: Papers presented to
+Joseph H. Greenberg on his 75th Birthday, 1–42. Amsterdam: John Benjamins.
+Chaves, Rui P. 2008. Linearization-based word-part ellipsis. Linguistics and Phi-
+losophy 31: 261–307.
+Coseriu, Eugenio. 1964. Pour une sémantique diachronique structurale. Travaux
+de linguistique et de littérature 2: 139–186.
+Dahl, Östen & Viveka Velupillai. 2005. The future tense. In Martin Haspelmath,
+Matthew S. Dryer, David Gil & Bernard Comrie, eds. The world atlas of lan-
+guage structures. Oxford: Oxford University Press.
+Di Sciullo, Anne Marie & Edwin Williams. 1987. On the definition of word. Cam-
+bridge: MIT Press.
+Dixon, R. M. W. 1977. Some phonological rules of Yidiɲ. Linguistic Inquiry 8: 1–34.
+Dixon,R.M.W.&AlexandraY.Aikhenvald.2002.Word:Atypologicalframework.
+In R. M. W. Dixon & Alexandra Y. Aikhenvald, eds. Word: A cross-linguistic
+typology. Cambridge: Cambridge University Press, 1–41.
+Dryer, Matthew S. 2005a. Order of genitive and noun. In Martin Haspelmath,
+Matthew S. Dryer, David Gil & Bernard Comrie, eds. The world atlas of lan-
+guage structures. Oxford: Oxford University Press, 350–353.
+Dryer, Matthew S. 2005b. Order of adposition and noun phrase. In Martin
+Haspelmath, Matthew S. Dryer, David Gil & Bernard Comrie, eds. The world
+atlas of language structures. Oxford: Oxford University Press, 346–349.
+Dryer, Matthew S. 2005c. Position of pronominal possessive affixes. In Martin
+Haspelmath, Matthew S. Dryer, David Gil & Bernard Comrie, eds. The world
+atlas of language structures. Oxford: Oxford University Press, 234–237.
+Erdal, Marcel. 2007. Group inflexion, morphological ellipsis, affix suspension,
+clitic sharing. In M. M. Jocelyne Fernandez-Vest, ed. Combat pour les langues
+du monde: hommage à Claude Hagège. Paris: L’Harmattan, 177–189.
+Evans, Nicholas, Janet Fletcher & Belinda Ross. 2008. Big words, small phrases:
+Mismatches between pause units and the polysynthetic word in Dalabon.
+Linguistics 46: 89–129.
+Faarlund, Jan Terje. 2009. On the history of definiteness marking in Scandinavian.
+Journal of Linguistics 45: 617–639.
+Fuhrhop, Nanna. 2007. Zwischen Wort und Syntagma: Zur grammatischen Fund-
+ierung der Getrennt- und Zusammenschreibung. Tübingen: Niemeyer.
+Fukushima, Kazuhiko. 1999. Bound morphemes coordination and bracketing
+paradox. Journal of Linguistics 35: 297–320.
+Fulmer, S. Lee. 1990. Dual-position affixes from Afar: An argument for phono-
+logically driven morphology. In Aaron I. Halpern, ed. WCCFL 9. Stanford:
+CSLI, 189–203.
+The indeterminacy of word segmentation    75
+Garvin, Paul L. 1954. Delimitation of syntactic units. Language 30: 345–348.
+Greenberg, Joseph H. 1957. Order of affixing: A study in general linguistics. In
+Joseph Greenberg, ed. Essays in linguistics. Chicago: University of Chicago
+Press, 86–94.
+Gurevich, Olya. 2006. Constructional Morphology: The Georgian version. Berkeley:
+Ph.D. dissertation.
+Guthrie, Malcolm. 1948. Bantu word division: A new study of an old problem. (Inter-
+nationalAfricanInstituteMemorandumXXII).Oxford:OxfordUniversityPress.
+Haebler, Claus. 2002. Zur Etymologie von Benennungen für “Wort”: Beispiele aus
+indogermanischen Sprachen Europas. In D. Alan Cruse, Franz Hundsnurscher,
+Michael Job, Peter Rolf Lutzeier, eds. Lexicology: An international handbook on
+the nature and structure of words and vocabularies, vol. I, Berlin: Walter de
+Gruyter, 78–83.
+Halpern, Aaron. 1995. On the placement and morphology of clitics. Stanford: CSLI
+Publications.
+Hankamer, Jorge. 1973. Unacceptable ambiguity. Linguistic Inquiry 4: 17–28.
+Hankamer, Jorge. 1989. Morphological parsing and the lexicon. In William
+Marslen-Wilson, ed. Lexical representation and process. Cambridge, MA: MIT
+Press, 392–408.
+Harris, Alice C. 2000. Where in the word is the Udi clitic? Language 76: 593–616.
+Harris, Alice C. 2006. Revisiting anaphoric islands. Language 82: 114–130.
+Haspelmath, Martin. 1993. A grammar of Lezgian. Berlin: Mouton de Gruyter.
+Haspelmath, Martin. 2000. Periphrasis. In Geert Booij, Christian Lehmann &
+Joachim Mugdan, eds. Morphology: A handbook on inflection and word for-
+mation, vol. 1. (Handbücher zur Sprach- und Kommunikationswissenschaft)
+Berlin: Mouton de Gruyter, 654–664.
+Haspelmath, Martin. 2002. Understanding morphology. London: Arnold.
+Haspelmath, Martin. 2010. Comparative concepts and descriptive categories in
+crosslinguistic studies. Language 86: 663–687
+Himmelmann, Nikolaus P. 2006. Prosody in language documentation. In Jost
+Gippert, Nikolaus P. Himmelmann & Ulrike Mosel, eds. Essentials of language
+documentation. Berlin: Mouton de Gruyter, 163–181.
+Hockett, Charles F. 1958. A course in modern linguistics. New York: MacMillan.
+Hualde, José Ignacio & Jon Ortiz de Urbina, eds. 2003. A grammar of Basque
+(Mouton Grammar Library). Berlin: Mouton de Gruyter.
+Iggesen, Oliver. 2005. Number of cases. In Martin Haspelmath, Matthew S. Dryer,
+David Gil & Bernard Comrie, eds. The world atlas of language structures.
+Oxford: Oxford University Press, 202–205.
+Jacobs, Joachim. Forthcoming. Grammatik ohne Wörter? To appear in: Sprach-
+liches Wissen zwischen Lexikon und Grammatik. (Jahrbuch des Instituts für
+Deutsche Sprache). Berlin: Mouton de Gruyter.
+76   Martin Haspelmath
+Jespersen, Otto. 1924. The philosophy of grammar. London: George Allen & Unwin
+Ltd.
+Juilland, Alphonse & Alexandra Roceric. 1972. The linguistic concept of word: Ana-
+lytic bibliography. The Hague: Mouton.
+Julien, Marit. 2002. Syntactic heads and word formation. New York: Oxford Uni-
+versity Press.
+Kabak, Barış & Irene Vogel. 2001. The phonological word and stress assignment in
+Turkish. Phonology 18: 315–360.
+Kabak, Barış. 2007. Turkish suspended affixation. Linguistics 45: 311–347.
+Kageyama, Taro. 2001. Word plus: The intersection of words and phrases. In
+Jeroen van de Weijer & Tetsuo Nishihara, eds. Issues in Japanese phonology and
+morphology. Berlin: Mouton de Gruyter, 245–276.
+Kanerva, Jonni. 1987. Morphological integrity and syntax: The evidence from
+Finnish possessive suffixes. Language 63: 498–521.
+Katamba, Francis. 1993. Morphology. London: MacMillan.
+Kenesei, István. 2007. Semiwords and affixoids: The territory between word and
+affix. Acta Linguistica Hungarica 54: 263–293.
+Kibrik, Aleksandr E. 1998. Archi (Caucasian-Daghestanian). In Andrew Spencer
+& Arnold M. Zwicky, eds. The handbook of morphology. Oxford: Blackwell.
+Klein, Wolfgang & Clive Perdue. 1997. The basic variety (or: Couldn’t natural lan-
+guages be much simpler?) Second Language Research 13: 301–347.
+Krámský, Jiří. 1969. The word as a linguistic unit. The Hague: Mouton.
+Kroeger, Paul. 2005. Analyzing grammar: An introduction. Cambridge: Cambridge
+University Press.
+Langacker, Ronald W. 1972. Fundamentals of linguistic analysis. New York: Har-
+court Brace Jovanovich.
+Lapointe, Steven G. 1980. A theory of grammatical agreement. Amherst: Univer-
+sity of Massachusetts Ph.D. dissertation.
+Lapointe, Steven G. 1990. EDGE features in GPSG. Chicago Linguistic Society 26:
+221–235.
+Lewis, G. L. 1967. Turkish grammar. Oxford: Oxford University Press.
+Lieber, Rochelle & Sergio Scalise. 2006. The Lexical Integrity Hypothesis in a new
+theoretical universe. Lingue e Linguaggio 6: 7–32.
+Lightfoot, David W., ed. 2002. Syntactic effects of morphological change. Oxford:
+Oxford University Press.
+Luutonen, Jorma. 1997. The variation of morpheme order in Mari declension. Hel-
+sinki: Suomalais-Ugrilainen Seura.
+Lyons, John. 1968. An introduction to theoretical linguistics. Cambridge: Cambridge
+University Press.
+Martinet, André. 1960. Éléments de linguistique générale. Paris: Armand Colin.
+Martinet, André. 1968. Mot et synthème. Lingua 21: 294–302.
+Masini, Francesca. 2009. Phrasal lexemes, compounds and phrases: A construc-
+The indeterminacy of word segmentation    77
+tionist perspective. Word Structure 2: 254–271.
+Mathieu-Colas, Michel 1996. Essai de typologie des noms composés français.
+Cahiers de lexicologie 69: 71–125.
+Matthews, Peter H. 2002. What can we conclude? In R.M.W. Dixon & Alexandra
+Y. Aikhenvald eds. Word: A cross-linguistic typology. Cambridge: Cambridge
+University Press, 266–281.
+Matthews, Peter H. 1972. Inflectional morphology. Cambridge: Cambridge Univer-
+sity Press.
+Matthews, Peter H. 1974. Morphology. Cambridge: Cambridge University Press.
+Matthews, Peter H. 1991. Morphology. 2nd edition. Cambridge: Cambridge Uni-
+versity Press.
+McWhorter, John H. 2001. The world’s simplest grammars are creole grammars.
+Linguistic Typology 5: 125–166.
+McWhorter, John H. 2005. Defining creole. Oxford: Oxford University Press.
+Meillet, Antoine. 1921 [1982]. Linguistique historique et linguistique générale.
+Reprint, Paris: Champion, 1982.
+Mel’čuk, Igor A. 1988. Syntactic, or lexical, zero. In Igor Mel’čuk, ed. Dependency
+syntax: Theory and practice. Albany: State University of New York Press,
+303–337.
+Mel’čuk, Igor A. 1993. Cours de morphologie générale (théorique et descriptive).
+Vol. I. Montréal: Presses de l’Université de Montréal.
+Milewski, Tadeusz. The conception of the word in languages of North American
+natives. Lingua Posnaniensis 3: 248–268.
+Milićević, Jasmina. 2005. Clitics or affixes? On the morphological status of the
+future tense markers in Serbian. In Wolfgang Dressler, Dieter Kastovsky, Oskar
+E. Pfeiffer & Franz Rainer, eds. Morphology and its demarcations: Selected
+papers from the 11th Morphology Meeting, Vienna, February 2004. Amsterdam:
+John Benjamins, 39–52.
+Miller, Philip H. 1992a. Clitics and constituents in phrase structure grammar. New
+York: Garland.
+Miller, Philip H. 1992b. Postlexical cliticization vs. affixation: Coordination crite-
+ria. Chicago Linguistic Society 28: 382–396.
+Mithun, Marianne. 1984. The evolution of noun incorporation. Language 60:
+847–894.
+Monachesi, Paola. 1999. A lexical approach to Italian cliticization. Stanford: CSLI
+Publications.
+Mugdan, Joachim. 1994. Morphological units. In R. E. Asher, ed. The encyclopedia
+of language and linguistics. Oxford: Pergamon Press, 2543–2553.
+Nespor, Marina & Irene Vogel. Prosodic phonology. Dordrecht: Foris.
+Noyer, Rolf. 1994. Mobile affixes in Huave: Optimality and morphological well-
+formedness. West Coast Conference on Formal Linguistics 12: 67–82. Stanford:
+CSLI.
+78   Martin Haspelmath
+O’Connor, Rob. 2002. Clitics and phrasal affixation in Constructive Morphology.
+In Miriam Butt & Tracy Holloway King, eds. Proceedings of LFG02, National
+Technical University of Athens. Stanford: CSLI Online Publications, 315–332
+<http://csli-publications.stanford.edu/LFG/7/lfg02.html>.
+Peterson, John. 2008. Kharia: A South Munda language. Vol. I: Grammatical analy-
+sis. Osnabrück: University of Osnabrück habilitation thesis.
+Pike, Kenneth L. 1967. Language in relation to a unified theory of human behavior
+(Janua Linguarum, Series Maior 24). The Hague: Mouton.
+Plank, Frans. 1994. Inflection and derivation. In R. E. Asher, ed. Encyclopedia of
+language and linguistics. Oxford: Pergamon Press, 1671–1678.
+Poser, William J. 1985. Cliticization to NP and Lexical Phonology. West Coast
+Conference on Formal Linguistics 4: 262–272. Stanford: CSLI.
+Postal, Paul. 1969. Anaphoric islands. Chicago Linguistic Society 5: 205–239.
+Radford, Andrew, Martin Atkinson, David Britain, Harald Clahsen & Andrew
+Spencer. 1999. Linguistics: An introduction. Cambridge: Cambridge University
+Press.
+Reichling, Anton. 1935. Het woord: Een studie omtrent de grondslag van taal en
+taalgebruik. Nijmegen: Berkhout.
+Robins, R. H. 2002. The word in American structuralism. In D. Alan Cruse, Franz
+Hundsnurscher, Michael Job & Peter Rolf Lutzeier, eds. Lexicology: An inter-
+national handbook on the nature and structure of words and vocabularies, vol. I.
+Berlin: Walter de Gruyter, 138–143.
+Sadock, Jerrold M. 1986. Some notes on noun incorporation. Language 62: 19–31.
+Saenger, Paul. 1997. Space between words: The origins of silent reading. Stanford:
+Stanford University Press.
+Sampson, Geoffrey. 2009. A linguistic axiom challenged. In Geoffrey Sampson, ed.
+Language complexity as an evolving variable. Oxford: Oxford University Press,
+1–18.
+Samvelian, Pollet. 2007. A (phrasal) affix analysis of the Persian Ezafe. Journal of
+Linguistics 43: 605–645.
+Sapir, Edward. 1921. Language: An introduction to the study of speech. New York:
+Harcourt Brace.
+Schachter, Paul & Fe T. Otanes. 1972. Tagalog reference grammar. Berkeley: Univer-
+sity of California Press.
+Schiering, René, Kristine A. Hildebrandt & Balthasar Bickel. 2010. The prosodic
+word is not universal, but emergent. Journal of Linguistics 46: 537–771.
+Schwegler, Armin. 1990. Analyticity and syntheticity: A diachronic perspective with
+special reference to Romance languages. Berlin: Mouton de Gruyter.
+Selkirk, Elisabeth O. 1982. The syntax of words. Cambridge, MA: MIT Press.
+Smith, George. 2000. Word remnants and coordination. In Rolf Thieroff, M. Tam-
+rat, Nanna Fuhrhop & Oliver Teuber, eds. Deutsche Grammatik in Theorie und
+The indeterminacy of word segmentation    79
+Praxis. Tübingen: Niemeyer, 57–68.
+Spencer, Andrew. 1991. Morphological theory: An introduction to word structure in
+generative grammar. Oxford: Blackwell.
+Spencer, Andrew. 2001. The paradigm-based model of morphosyntax. Transac-
+tions of the Philological Society 99: 279–314.
+Spencer, Andrew. 2004. Morphology: An overview of central concepts. In Louisa
+Sadler & Andrew Spencer, eds. 2004. Projecting morphology. Stanford: CSLI
+Publications, 67–109.
+Spencer, Andrew. 2006. Morphological universals. In Ricardo Mairal & Juana Gil,
+eds. Linguistic universals. Cambridge: Cambridge University Press, 101–129.
+Sproat, Richard. 1988. On anaphoric islandhood. In Michael Hammond & Michael
+Noonan, eds. Theoretical morphology. San Diego: Academic Press, 291–301.
+Stevens, A. M. 1971. Fixed morpheme order. Linguistic Inquiry 2: 420–421.
+Stump, Gregory T. 2001. Inflectional morphology: A theory of paradigm structure.
+Cambridge: Cambridge University Press.
+Sweet, Henry. 1913. Word, logic, and grammar. In Collected Papers of Henry Sweet.
+Oxford: Clarendon, 1–33. First publ. 1875–76.
+Tesnière, Lucien. 1932. Synthétisme et analytisme. In Charisteria G. Mathesio quin-
+quagenario a discipulis et circuli linguistici Pragensis sodalibus oblata. Prague:
+Cercle linguistique de Prague, 62–64.
+Thráinsson, Höskuldur. 2007. The syntax of Icelandic. Cambridge: Cambridge Uni-
+versity Press.
+Togeby, Knud. 1949 [1978]. Qu’est-ce qu’un mot? In Michael Herslund, ed. Knud
+Togeby: Choix d’articles 1943–1974. Copenhagen: Akademiske Forlag, 51–65.
+Trager, George L. & Henry L. Smith. 1951. An outline of English structure (Studies in
+Linguistics Occasional Papers, 3). Norman, OK: Battenberg Press.
+Tseng, Jesse. 2003. Phrasal affixes and French morphosyntax. In Gerhard Jäger,
+Paola Monachesi, Gerald Penn & Shuly Wintner, eds. Proceedings of Formal
+Grammar 2003. Vienna: Technische Universität Wien, 177–188.
+van Wyk, E. B. 1968. Notes on word autonomy. Lingua 21: 543–557.
+Wälchli, Bernhard. 2005. Co-compounds and natural coordination. Oxford: Oxford
+University Press.
+Ward, Gregory, Richard Sproat & Gail McKoon. 1991. A pragmatic analysis of so-
+called anaphoric islands. Language 67: 439–474.
+Weber, David J. 1983. The relationship of morphology and syntax: Evidence from
+Quechua. Work Papers of the Summer Institute of Linguistics (University of
+North Dakota) 27: 161–181.
+Weinrich, Harald. 1963. Ist das Französische eine analytische oder synthetische
+Sprache? Lebende Sprachen 8: 52–55.
+Wurzel, Wolfgang Ullrich. 1984. Flexionsmorphologie und Natürlichkeit. Berlin:
+Akademie Verlag.
+80   Martin Haspelmath
+Zedler, Johann Heinrich, ed. 1749. Grosses vollständiges Universal-Lexicon Aller
+Wissenschafften und Künste, vol. 59: Wor–Wuq. Halle & Leipzig: Johann Hein-
+rich Zedler.
+Zwicky, Arnold M. 1987. Suppressing the Zs. Journal of Linguistics 23: 133–148.
+Zwicky, Arnold M. 1992. Some choices in the theory of morphology. In Robert
+D. Levine, ed. Formal grammar: Theory and implementation. Oxford: Oxford
+University Press, 327–371.
+Zwicky, Arnold M. & Geoffrey Pullum. 1983. Cliticization vs. inflection: English
+n’t. Language 59: 502–513.
+Author’s address:
+Max-Planck-Institut für evolutionäre
+Anthropologie
+Deutscher Platz 6
+D-04105 Leipzig, Germany
+e-mail: haspelmath@eva.mpg.de
+Received: 31 March 2010
+Revision invited: 23 May 2010
+Accepted: 25 June 2010

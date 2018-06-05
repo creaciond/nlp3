@@ -1,0 +1,1511 @@
+KIDS' SLIPS AS EVIDENCEFOR LANGUAGE DEVELOPMENT 9
+At this point the 'Functional Level Representation' undergoes a linear
+ordering in the 'Selection of Syntactic Templates' and 'Assignment of Content
+Lemmas to Syntagmatic Positions' components. Syntactic templates
+appropriate to the proposition and discourse are selected from the stored
+morphosyntactic representations (Van Valin & LaPolla 1997:432). These
+templates contain slots where particular types of function morphemes should
+occur, and function morphemes will be activated from the 'Function Lexicon' to
+fill those slots. The selection of the correct function morphemes will be
+governed by several things: requirements of the selected content morphemes
+(e.g. specific verbs require particular prepositions), requirements of the syntactic
+template (e.g. the passive construction requires particular verb morphology), and
+the tense/aspect requirements of the proposition (e.g. past perfective
+morphology). The 'Functional Level Representation' is linked to the selected
+syntactic template, following processes like the 'linking algorithms' of Van
+Valin & LaPolla (1997: Ch. 7), where thematic roles are assigned specific
+syntactic functions based on both language-specific and universal principles.
+Content word lemmas are then assigned to slots in the syntactic string based on
+their assigned functions in the 'Functional Level Representations'. During this
+linear ordering process, the 'Assignment of Intonational Contours' component
+assigns the correct intonational melody for the proposition, the syntactic frame,
+and the pragmatic intention of the utterance; it is specifically sensitive to the
+focus or information structure of the sentence, and the type of speech act. This
+requires a partial activation of the 'Phonology' representations, specifically
+elements relevant to the phonology-syntax interface.
+After the lemmas of both content and function words and morphemes have
+been linearized, the 'Form' representations of each lemma are retrieved from the
+form lexicon and replace the more abstract lemmas in the linear string, for both
+content and function morphemes. The 'form' representation of each lexical entry
+is assumed to include phonological and morphological information about that
+word, as well as orthographic information where relevant. The morphological
+representations of lexical entries are taken to contain information regarding the
+morphological make-up of the word. Derivationally complex words,
+compounds, and irregularly inflected forms are assumed to be stored whole, with
+some information about the individual morphemes which make up the word
+stored in the lexical entry (see Chapters 4 and 6 for details). Regular inflectional
+affixes are not stored in content lexical entries, but have autonomous entries in
+the form lexicon and are concatenated with content morphemes during linear
+ordering. Phonological representations are assumed to be something like those
+represented in Autosegmental Phonology (or some connectionist models); i.e.
+there are various tiers of phonological units (or nodes), linked together by
+association lines, which function to some extent autonomously; prosodic
+structure, syllable structure, segments, and phonetic features are important parts
+of each phonological representation, and there is both feed-forward and feed-back
+among levels of representation.
+10 KIDS' SLIPS
+In the RPC Model, the 'lemma lexicon' and the 'form lexicon' are treated as
+if they are two separate but related entities, similar to the 'generic 2-stage model'
+of Harley & Brown (1998). This distinction is supported by the
+psycholinguistic facts gleaned from SOT research, since each aspect of the
+lexicon is activated and processed at distinct points during processing, and is
+involved in different types of errors. An interesting issue which will recur
+throughout this book is just how the two subdivisions of the lexicon are linked,
+that is, what kinds of feed-forward and feed-backward links there are between the
+two aspects of the lexical representation for a single lexical entry.
+The output of the 'Retrieval of Forms' component is the 'Phonological
+Level Representation', which consists of a string of (abstract, or partially
+unspecified) phonological representations in the correct linear order, with
+syntactic constituent structure specified, and with the general intonational
+melody indicated. This representation is fed into the 'Phonological Processes'
+component while the speaker's representation for 'Phonology', i.e, their
+knowledge about the phonological structures and processes of their language, is
+activated. In this component the phonological rules of the language assign the
+correct phonetic form to the more abstract phonological units in the 'form'
+representation, given the syntagmatic and prosodic structure of the utterance; this
+is done on a phrase-by-phrase basis. Productive phonological (e.g. allophonic)
+and morphophonemic processes take place during assignment of phonetic form.
+The output of this component is the 'Phonetic Level Representation', which is a
+fully specified phonetic representation of the utterance, and is the last element in
+the 'Speech Production Planning' process. This representation is sent to the
+'Motor Planning' component, i.e. the motor areas of the brain, for neural motor
+encoding, and from there to the actual articulators, in syllable-by-syllable
+increments, for 'Speaking'. Errors which occur in the components from
+'Inferential Processes' through 'Phonological Processes' which involve planning
+per se are considered SOTs; however errors which occur during speaking itself
+(i.e. hesitations, slurrings, etc.) or for pragmatic reasons (e.g. false starts) are not
+considered part of the planning process and hence are not SOTs. In §104.5
+below, after the presentation of my SOT taxonomy, I will refer back to this
+model in order to link specific error types to erroneous processing in specific
+components of the model.
+One final element of the RPC Model is the self-monitoring system (not
+included in Figure 1.1). I assume (with Laver 1980 and many others) that there
+are two distinct monitors which serve to filter out erroneous utterances, either
+before they are uttered or immediately after the utterance is produced. The first is
+an 'internal' monitor, which screens the final output of the planning mechanism
+for legality; that is, its role is to filter out any non-legal speech sounds,
+phonotactic sequences, nonsense words, or ungrammatical strings, before the
+utterance is produced. The existence of this internal monitor would explain why
+non-legal speech sounds and violations of phonotactic sequences are extremely
+rare in SOTs (Boomer & Laver 1973, Fromkin 1973a), and why phonological
+KIDS' SLIPS AS EVIDENCEFOR LANGUAGE DEVELOPMENT 11
+errors are likely to produce real words, at least for adults (Baars, Motley &
+MacKay 1975, Dell & Reich 1981); it may also explain the rarity of true phrase
+blends. Strong evidence for the internal monitor comes from studies by Motley
+and Baars (Baars, Motley & Mackay 1975, Motley 1980). In these studies,
+subjects were induced via the 'SLIPS' technique to produce speech errors which
+would result in the production of words or phrases which were slightly
+embarrassing or risque. In these cases subjects would often catch themselves
+before they spoke the error aloud. but would blush and look embarrassed because
+of what they had been about to say. These studies attest to the existence of an
+internal monitor which scans planned output prior to speaking.
+However, luckily for us. this internal monitor is far from perfect. and
+erroneously planned utterances can fool the monitor and be spoken aloud,
+producing SOTs. At this point a second monitor, the 'external' monitor. comes
+into play. This monitor consists of the auditory feedback loop; that is, speakers
+are usually listening to what they are saying. and if they hear an error (i.e. their
+utterance is at odds with their intention) they have the option of correcting it.
+One interesting question which will be addressed below is the relative efficiency
+of children's monitors compared to adults' .
+1.3 The Current Study: MethodolQ2Y
+1.3.1 How Can We Tell a Child Has Made A Slip?
+As discussed above, there are obvious methodological difficulties involved
+in detecting SOTs made by very young children. since children regularly produce
+utterances which differ from adult productions of the same target. In most cases
+these productions reflect the child's current stage of development. and are
+systematic substitutions or omissions of the types thoroughly documented in the
+acquisition literature (e.g. Ingram 1986). However. the studies cited above have
+shown that SOTs can be distinguished from systematic 'rules' which govern
+children's immature productions. In the cases where errors are collected in
+spontaneous settings. the researcher knows the child's current system of
+production thoroughly. and recognizes that a particular utterance was at odds with
+the usual production. The errors frequently are of a type which differ
+significantly from typical systematic substitutions or mutations. Furthermore.
+children frequently look confused and/or correct their error in the same way that
+adults do after making a slip. Consider the following example:
+(1) B: 'Mommy, more cheese-puffs.' (a type of snack food)
+M: 'No, you've had enough.'
+B: '[tJ..tApc]! ... cheese-puffs!'
+(for 'cheese-puffs' [tl.pApC]. adult model [tflz.phAfs]; B-28(l2) 1;11)
+Before discussing this example, my notational conventions need to be
+explicated. In errors given as examples, the 'error' units (erroneous production)
+12 KIDS' SLIPS
+are in boldface; the 'source' (source of the interference) is in boldface italics; and
+the 'target' (the intended production) is underlined. So, in example (1), the first
+[t] in 'cheese-puffs' (bold-italics) is the source of the error; the second et] (bold)
+is the error itself; the [p] in the corrected utterance (underlined) is the target (i.e.
+intended) segment.
+In the child errors, speakers are identified as follows: An=Anna, AI=Alice,
+B=Bobby, Me-the child's mother, De-thechild's father, OB=other boy, OG=other
+girl, OA=other adult. The notation at the end of the example should be read as
+follows: 1) Identification of data set and error number: AN=Anna, AL=Alice,
+B=Bobby, OC=other child. 2) The taxonomic class of the error (in parentheses
+after the error number); the classification system is given in Table 1.2 below, as
+well as at the beginning of the data section of this book. 3) The age of the child
+when the error was made, in 'years;months'; in the data section of this book the
+days are also given (i.e. years;months.days). Thus the error in (1) should be
+interpreted as follows: Bobby requests more cheese-puffs, his mother responds
+negatively, and then Bobby reiterates that he wants cheese-puffs, and makes an
+error in this utterance (which will be discussed below). The notation after the
+error should be read as follows: Subject: Bobby-error #28 (class 12, phonological
+perseverations, substitutions, consonants) age: one year; eleven months. A
+guide to phonetic symbols used can be found at the beginning of the data section
+of the book. In most cases in the text, the error will be presented in an
+abbreviated form, focussing only on the relevant structures; however, the full
+error is always given in the data section of the book. Finally, in the data section
+of the book I have indicated after each error where in the text this error has been
+discussed, if relevant. Thus in the text, if an example is repeated I will usually
+not indicate that it is 'repeated from above', since this information is available in
+the data section.
+At the age at which he made the 'cheese-puffs' error, Bobby regularly
+realized the six adult phonemes Ip,bl, lt,dJ, and /k,gl as the three voiceless
+unaspirated stops [p], et], [k] respectively, and systematically differentiated the
+three places of articulation. Adult If1was realized as [p], and syllable-initial /tS/
+as [t], while all word-final sibilants were pronounced as [cl; all but word-final
+sequences of consonants were reduced to single consonants. In this example, in
+the first utterance Bobby pronounced 'cheese-puffs' in his usual way, [t1.pAp<;;];
+then when he repeated it in his second utterance, the et] from 'cheese' [ti] was
+perseverated and substituted for the initial [p] in 'puffs' [pxpc]: the child then
+noticed his error and corrected it to his usual pronunciation. So one can see the
+erroneous production flanked on both sides by the 'correct' pronunciation for this
+word, that is, Bobby's usual pronunciation of this word at age 1;11. The
+substitution of et] for [p] was not a regular substitution for this child but
+represented a one-time error which violated his usual pronunciation of this word;
+furthermore the regular substitution of et] for [p] is not common in early child
+phonology, since [p] and et] are usually among the first segments systematically
+produced correctly by children. Therefore there is enough evidence to conclude
+KIDS' SLIPS AS EVIDENCE FOR LANGUAGE DEVELOPMENT 13
+that this was indeed a one-time SOT.
+A few more examples will strengthen the argument.
+(2) a. OG: (looking at toothbrush; no toothpaste in view)
+'My toothpaste ... my toothbrush.'
+(substitution of 'toothpaste' for 'toothbrush'; OC-6(35) 2;0)
+b. An: (pretending to talk on the phone to "Winnie the Pooh" characters)
+'HI [th
+).glt].'
+(blend of'Tigger' [th
+f.g3 ] and 'Piglet' [p'I.qrt]: AN-6(38) 1;7)
+c. AI: 'Daddy, me watching Daddy cooking .. . no . . . M6mmy's
+cooking.'
+('Daddy' perseverated, substituted for 'Mommy'; AL-27(43) 2;4)
+d. B: (ready to walk to store) 'Mom, l wanna g6ing ... I going
+too!' (blend of 'I wanna go' and 'I going too'; B-37(49) 2;1)
+In (2a), the child regularly differentiated the words 'toothpaste' and 'toothbrush',
+but in this instance she selected the incorrect word, and then corrected herself. In
+(2b), Anna knew both the words 'Tigger' and 'Piglet', but during this pretend
+conversation she accidentally blended the two names. Alice, in error (2c),
+perseverated the word 'Daddy' and substituted it for 'Mommy'. Upon noticing
+the error she corrected herself and laughed at her mistake; she also changed the
+phrasal stress pattern and (very slightly) the syntax in order to emphasize the
+correction. Finally, in (2d), Bobby was able to correctly produce the two target
+syntactic structures at this time, but in this case he blended the two, correcting
+the utterance which he considered to be ungrammatical into one of the targets.
+Although this target, 'I going too', is ungrammatical by adult standards, it was
+a regular structure in Bobby's grammar at the time, and so was not
+ungrammatical by his standards.
+In sum, an utterance made by a child is analyzed as containing a SOT if it
+includes a production which is at odds with the child's current grammar, either in
+terms of phonology, lexicon, morphology, or syntax. Frequently, after a SOT
+is made, the child looks confused, and/or corrects the utterance, which is further
+evidence that the child considered it an error.
+On the other hand, many of the children's productions which differ from the
+adult model are simply a function of the child not having yet learned that
+linguistic structure. A systematic substitution of one phoneme for another
+(exemplified in example (1) above, where Bobby systematically substituted
+voiceless unaspirated plosives for all plosives and some fricatives), the misuse of
+a word, the meaning of which the child is unsure of, or the regular use of a non-
+adult syntactic construction are not SOTs. Similarly, fluctuations in usage
+while a child masters a structure are also not slips (see Stemberger 1989 for a
+careful discussion of this point). Consider the following examples.
+14 KIDS'SLIPS
+(3) a. An: 'Look! Alice!' (pointing at a picture of "Baby Beluga" in a book)
+M: 'Yeah, I already showed it to her yesterday.'
+An: 'Alice, come here! Look at this!'
+AI: 'Anna, she already showed me tomorrow!'
+An: (laughs) 'Yesterday!'
+AI: 'Yesterday.' (Alice, age 3;5; Anna age 5;9)
+b. AI: 'Mamma, I wanted to watch Gene Kelly, but I just got into bed
+and goeded to sleep.' (pronounced [g6w.f~d]; age 3;5)
+c. M: 'Don't touch my tummy.'
+AI: 'Yeah, that's prlvace.' (pronounced [ph~aj.V~s]; age 3;3)
+d. An: (being a magician) 'And now I will appear my assistant, right
+under this table.' (age 5;6)
+In (3a), Alice substituted the word 'tomorrow' for 'yesterday'; however, this was
+not a SOT, since she did not have the meanings of these words clearly
+distinguished, and was fluctuating between the two randomly at the time . In
+(3b), she produced an overregularized version of the past tense of 'go'; i.e. rather
+than 'went' she added the regular past tense suffix to 'go', producing 'goed', then
+double marked it by adding the suffix again, now requiring the syllabic form,
+producing 'goeded'. This was an overgeneralization she was making regularly at
+this time, and not a one-time SOT. In (3c), Alice had created the word 'privace',
+meaning 'private', as a back-formation from 'privacy'; for a short time she
+refused to pronounce it any other way. Finally, in (3d), Anna produced the verb
+'appear' as if it were a causative (i.e. 'cause to appear'), which is a well-
+documented type of overextension common to the early speech of many English-
+speaking children (Bowerman 1974). Such examples were carefully noted in
+my journal entries as 'not a slip', and they will not be found in the corpus at the
+end of this book.
+Finally, as mentioned above, there are a number of types of incomplete
+utterances which are not considered SOTs per se (see Levelt 1989: Ch. 12, and
+Wells-Jensen 1999:83-94 for thorough discussions of this point). These include
+false starts with re-starts, where the speaker changes his/her mind about the
+propositianal content, lexical selection, or form of the utterance, and then plans
+and speaks a new utterance before the originally planned utterance is completed.
+This is illustrated in (4).
+(4) AI: 'Look at what .. . What Anna gave me is a flashlight.' (age 3;8)
+In this utterance, Alice started to say something like 'Look at what Anna gave
+me', but changed her mind and re-started the utterance with a different
+prepositional content and syntax. Other types of utterances not counted as SOTs
+include what Wells-Jensen calls 'discourse anomalies' (1999:89), where, for
+example, a child uses pronouns in a confusing manner because he/she has lost
+•
+track of the discourse reference. Finally, stutterings, slurred speech, and other
+KIDS' SLIPS AS EVIDENCEFOR LANGUAGE DEVELOPMENT 15
+motor dysfluencies are not considered SOTs as they are not caused by
+dysfunction of the speech production planning mechanism; they are rather
+caused by a problem in sending messages from the 'Motor Planning' component
+to the articulators themselves.
+These are the basic principles involved in data collection; specific details
+regarding different types of errors and subjects will be discussed below.
+1.3.2 Subjects
+The majority of data analyzed in the present study were collected by me from
+my three children, Anna, Alice, and Bobby, when they were between the ages of
+1;7-5;11. During this time period I kept diaries of all three children's language
+development, such that the SOTs were situated within a record of their
+synchronous normal productions. Further data were collected from 57 'Other'
+children, 29 girls and 28 boys, ages 1;10-5;11. All errors were collected by ear,
+in naturalistic settings; errors were recorded in a notebook immediately after they
+occurred, in both orthography and phonetic transcription, including information
+about discourse context, previous and subsequent utterances, and physical context
+when relevant. Age 6 was chosen as the cut-off point for this study partly to
+minimize any effect of literacy , but mainly to focus on errors made by very
+young children as their primary linguistic abilities were developing. Errors
+were collected from Other children in order to verify that the data collected from
+my three children were not in some sense anomalous, i.e. that such errors are
+produced only by children who have two linguist parents. I found no qualitative
+differences between the data collected from my children and the Other children;
+quantitative differences will be discussed in detail below. I will refer to the data
+collected from Anna, Alice, Bobby, and Other children as the four 'data sets' of
+this study.
+Many of the Other errors were collected in a preschool setting, where I
+observed a group of 2-5-year-olds for approximately one hour, two days per
+week, for six weeks. Some Other errors were collected from my children's
+friends and cousins whose speech patterns I knew well, particularly during the
+age range of 3-5 years, such that their grammars were not greatly different from
+the adult models. Although I personally collected the great majority of errors, a
+few of the Other errors in my corpus were collected by my graduate students
+from their own children; these students were well trained in both phonetics and
+the study of SOTs, and their data are highly reliable. A few of the errors came
+from professional colleagues who collected these errors from their own children.
+My corpus of child errors numbers 1,383. Table 1.1 shows the number of
+errors contributed to the corpus by each data set at each age, from 1 to 5 years,
+and the percentage of errors at each age originating from each data set. This table
+is to be read as follows (for example): at age 1, I collected 22 SOTs from Anna;
+this represents 38.5% of the age 1 errors in my corpus. Overall, Anna
+contributed 338 (24.5%) of the errors in the corpus. It can be seen that at each
+age there are very different proportions of errors contributed by each data set; I
+16 KIDS' SLIPS
+TABLE 1.1
+Number of errors in each data set at each age, and percentage of errors
+contributed by each data set at each age.
+Age: 1 2 3 4 5 Total
+Anna N= 22 77 43 126 70 338
+% 38.5% 27% 17% 26.5% 22% 24.5%
+Alice N= 0 85 114 40 34 273
+% 30% 44.5% 8.5% 10.75% 20%
+Bobby N= 31 90 55 261 160 597
+% 54.5% 32% 21.5% 55% 50.75% 43%
+Others N= 4 30 43 46 52 175
+% 7% 11% 17% 10% 16.5% 12.5%
+Total N= 57 282 255 473 316 1383
+will discuss this factor in more detail below.
+In Table 1.1 I have divided the data by age. However, in a few cases in this
+study I will separate out errors made when the subjects were in the 1- or 2-word
+vs. 3+word (i.e. telegraphic and beyond) speech stages, rather than by strict
+chronological age, when this distinction is important to the issue under study.
+The approximate ages at which my three children were making SOTs while in
+each of these stages are given in Table 1.2. Anna, who was an 'expressive'
+language learner (see 1.5.2 below), didn't go through obvious stages; she spoke
+in whole phrases from the time when her earliest SOTs were recorded, including
+fixed phrases such as nursery rhymes, mixed with jargon babbling. Alice, who
+was a more 'referential' style learner, did go through a clear l-word stage, from
+1;0-1;10; however, I did not collect any errors from her during this time, and her
+first SOT was collected after she had entered the 2-word stage (at age 2;0).
+However I collected several errors from Bobby, another <referential' learner, while
+he was in the I-word and 2-word stages. My corpus also includes several errors
+from Other children made in these early stages. Errors made in the l-word or
+2-word stages are marked as such in the database; all errors without these
+designations were made when the speaker was producing utterances of 3 or more
+words.
+1.3.3 Specific Methodological Issues Regarding Data Collection
+There are three types of problems which need to be considered when
+collecting SOT data, particularly from children. The first one has to do with the
+'pencil-and-paper' method of collection. It is frequently said (Nooteboom 1980,
+Cutler 1982a, Ferber 1991, Poulisse 1999, §5.2) that there is a perceptual bias
+which makes certain types of errors easier to detect than others; for example,
+KIDS' SLIPS AS EVIDENCEFOR LANGUAGE DEVELOPMENT 17
+TABLE 1.2
+Chronological ages for language development stages of the three main
+subjects, during the period when SOTs were collected.
+Stage: I-word 2-word 3+word
+Anna na na 1~7 -->
+Alice na 2;0 -- 2;1.20 2;1.20 -->
+Bobby 1;7 -- 1;8.30 1;9.0--1;11.20 1;11.20-->
+word or syllable errors are said to be easier to hear than phoneme errors, and
+anticipations are perceived more readily than perseverations. I think it is
+interesting that in every naturalistic corpus I have encountered, the 'difficult-to-
+hear' phonological errors always outnumber other types of errors; thus it is
+possible that these biases are somewhat overstated (see Poulisse 1999:9 for a list
+of corpora in which this is true). Furthermore, in languages other than English
+and other Germanic languages (e.g. Thai, Mandarin, Japanese, Spanish, Hindi),
+anticipations and perseverations tend to be collected in equal numbers (see, for
+example, Wan 1999, Wells-Jensen 1999, Muansuwan 2000, Kawachi 2002), so
+that in languages where they are produced in equal numbers, they seem to be
+perceived as such. (The abundance of anticipations in Germanic languages is
+probably due to prosodic and information structure causes; see §3.7.3 below.)
+Certainly these possible biases should cause researchers to be cautious about
+making definitive statements about the quantity of specific types of errors (see
+§1.5.3 below). However, in order to be able to make some quantitative
+statements in comparison to adult data, I have collected an additional set of 716
+errors from adults (including teenagers; adults in the study ranged from 13-75), to
+use as a control corpus. Although many corpora of errors from adult speakers of
+English currently exist, I felt that a corpus collected by the same researcher,
+using the same methodology and classification system, would be the best data to
+use for comparison with the child data. In this case any perceptual biases
+attributable to the researcher would be evenly distributed across the two corpora.
+Furthermore, many of the adult errors in my corpus were collected from adults in
+the three main subjects' immediate family (including their parents, grandparents,
+aunts, and uncles), so they represent the target language which the children were
+learning. In fact, because the child data reported in this book were collected
+during the years of 1983-1991, the three main child subjects actually contributed
+most of the 'teenage' errors in the adult corpus; thus the child data are being
+compared to errors made by the same subjects at a later age, in several cases.
+Although the data I collected will be the primary source of adult data used for
+comparison to the child data, I will also compare the children's errors with
+published analyses of adult errors where appropriate.
+18 KIDS' SLIPS
+The second type of methodological issue is the accuracy with which young
+children's errors can be perceived, given considerations of age, error type, and
+type of utterance containing the error. A further factor is how well-known the
+child is to the data collector. In Jaeger (l992a) I documented the guidelines I
+used for collecting data of different types from the various subjects, which I will
+reiterate here.
+First, any error in a set-phrase such as a phrase from a nursery rhyme or
+word game, was very easy to detect for all subjects, especially since children tend
+to repeat these phrases many times, giving much evidence as to their normal
+forms. An example is given in (5). Many of the very early errors collected were
+in such phrases. These set-phrases become automatic very early, and so are
+among the earliest candidates for SOTs.
+(5) B: '[pu.ka.pn.]' (for 'peek-a-boo' [pi.ka.pu.] ; B-7(5) 1;9)
+In this error, Bobby intended to produce the set-phrase 'peek-a-boo' as part of the
+hiding game, but erroneously anticipated the vowel [u] from the third syllable
+and substituted it for the vowel [i] in the first syllable.
+Second, as with adult errors, word-based errors were readily noticeable, as
+they either consisted of one known word substituted for another known word as
+in (2a) above, or of two known words blended together as in (2b) above. These
+types of errors were also noticed by the children and self-corrected more often
+than any other type of error; this was equally true of data from my own children
+as from the Other group (see §2.4). Therefore lexical errors from Other children
+may be disproportionately high in my corpus, as I relied more heavily on self-
+correction in order to verify SOTs in Other children than in my own children.
+Third, it is clear that accuracy in detecting phonological errors (i.e. errors
+involving features, segments, sub-syllabic units, syllables, and prosody) depends
+on the data collector's knowledge of a child's current phonology. I was able to
+collect phonological errors from my three children with confidence, as was the
+case with errors collected by my graduate students from their own children.
+Collecting phonological errors from Other children involved familiarizing myself
+with individual speech patterns, especially with the very young children, which I
+was able to do satisfactorily in the preschool setting. In fact it was usually not
+difficult to distinguish phonological SOTs from systematic substitutions made
+by Other children; this was due to a combination of my familiarity with their
+systems, frequent self-correction, and the fact that these errors often violate the
+type of phonetic relationships usually found in systematic phonological
+substitutions due to an immature phonology.
+Fourth, the most difficult errors to collect were those which involved syntax
+and morphology, where the child did not correct his/her utterance. For my own
+children I checked uncorrected possible SOTs against journal entries documenting
+their current syntactic and morphological patterns, and verified that the utterance
+was at odds with their normal rules. For the Other children it was more difficult
+KIDS' SLIPS AS EVIDENCEFOR LANGUAGE DEVELOPMENT 19
+to verify their current syntactic and morphological systems, and so recording
+these errors relied to some extent on spontaneous self-correction. Again it was
+not as difficult to distinguish Other children's SOTs from their current immature
+grammars as one might expect, because such errors as phrase blends and word
+reversals usually result in structures which would be extremely unusual as a
+systematic pattern based on the child's current immature grammar (see example
+(2d) above). However, I did not include a potential error of any type in my
+corpus unless 1 had heard enough of the child's speech to have some verification
+that the utterance in question represented a deviation from the child's normal
+production (see also the discussion of example (26) in Chapter 3).
+The third type of methodological problem is the issue of whether or not the
+children in the study could have become consciously aware of the focus of my
+data collection, and may have been intentionally producing anomalous utterances
+for Mom' s benefit. I am often asked this question, although I find it a little odd
+since this is a question rarely asked of researchers collecting data from adult
+subjects, and it presupposes that speakers (in this case 1-5-year-old children) can
+intentionally create SOTs which sound natural enough to fool a seasoned
+researcher. (Naturally, when the children decided to pronounce the word
+'spaghetti' [spc.qe.ri] as 'busgetti' [po.ske.ri] for a few months, I did not count
+this as a SOT.) However, I did scan my notes for any hint that the children had
+any metalinguistic awareness of the phenomenon under study. Bobby seems to
+be the only child who was actually aware of the term 'speech error', since in two
+cases (at ages 4;11 and 5;1) he commented that he had 'made a speech error' after
+his external monitor caught the slip; one is given in (6); see also (B-429(35)
+4;11).
+(6) B: (explaining why he should be first in the bathtub tonight)
+'Because I was last forest] mght. (laughs) I made a speech
+error.' (for 'I was last last night'; B-458(1) 5;1)
+In (6) Bobby anticipates the onset [n] from 'night' and substitutes it for the
+onset [I] in 'last'. It was quite common for the children (and adults) to comment
+on their own errors, either just before the repair (e.g. '1 mean') or just after it ('I
+should say'); this will be discussed in detail in Chapter 2. Bobby's comment on
+his 'speech error' is analogous to the following comment from Anna, where she
+uses the terminology 'mistake'.
+(7) An: (peeling apple slices; no bananas in sight)
+'I'm peeling my bananas. (laughs) Oh, I made a mistake. I said
+"bananas" instead of "apples".' (AN-208(35) 4;5)
+Making a comment on an error was common among the Other children as well
+as among adults, and so these comments are unlikely to reflect any special
+knowledge of the SOT phenomenon among my children. However, one
+20 KIDS' SLIPS
+contribution made by Bobby is good evidence that the children would have been
+unable to construct speech errors even if they had tried. One evening when
+Bobby was 5;7, the children's father was joking around about speech errors (to
+my chagrin) and engaged Bobby in the following conversation.
+(8) D: 'What's a speech error?'
+B: 'You know! Can I do one please Mom?'
+M: 'OK'
+B: 'Cake-coffee. That's one, 'cuz it's supposed to be "coffee-cake".'
+So, at age 5;7 Bobby was consciously aware that one type of utterance that
+counts as a speech error is the metathesis of the two content stems in a
+compound. However notice that in his constructed error he carried the lexical
+stress with the two words when he metathesized them. In all of my naturally
+collected SOTs involving metathesis within a compound, the stress remained in
+the originally planned locations; so in a natural speech error the utterance would
+have been 'cake-coffee', since in this case one would expect that the compound
+stress would remain intact. Therefore this example shows that Bobby most
+likely would not have been able to intentionally construct a SOT, and if he had
+been trying to do it on purpose I'm quite sure I would have been able to
+distinguish it from a naturally occurring error. The two girls showed no signs of
+having any conscious awareness of the phenomenon during the study, and of
+course the Other children had no metalinguistic awareness of SOTs. Looking at
+this question from another angle, there is no evidence that metalinguistic
+awareness of SOTs has any affect on natural speech production one way or the
+other. Many of the adults in my study were very consciously and intimately
+aware of SOTs (in particular, myself), but produced them naturally, without
+intentionality or contrivance. in great abundance. Therefore metalinguistic
+awareness is unlikely to have had any influence on either my child or adult data,
+either by facilitating or inhibiting SOT production.
+After collecting the data. I divided the data into the five data sets •Anna,
+Alice, Bobby, Other Child, Adult'. I assigned numbers to each error
+consecutively according to age in each of the four child data sets. For my three
+children this means that their errors are numbered in.the order in which they
+occurred. For the 'Other' data set, the different children's errors were combined
+into one age-ranked list (the individual children are identified only as 'male' or
+'female'), and assigned consecutive numbers based on age; when the utterance
+included a proper name, this name was changed to protect the confidentiality of
+the child, unless the proper name itself was involved in the error. The adult
+errors were simply numbered consecutively in the order they appear in the data
+set; that is, the first error presented is error AD-I, and the last error in the corpus
+is AD-700 (see next section for why the last error is AD-700 and not AD-716).
+Notation used in the adult data include: AD=adult, AF=adult female, AM=adult
+male, TF=teen female, TM=teen male.
+KIDS' SUPS AS EVIDENCEFOR LANGUAGE DEVELOPMENT 21
+All errors were assigned to a specific error class according to the criteria
+given in the following section. When more than one error occurred in the same
+utterance, the errors were subscripted as (a), (b), (c); for example (only the errors
+are highlighted):
+(9) An: (chanting nursery rhyme)
+'Mommy called the doctor and the mommy [k'ed] . . .
+Momrny [khel.d~] doctor, and the doctor said ...
+Mommy called the doctor and the doctor said:
+No more monkeys jumpin' on the bed!'
+There are three errors in this utterance. The first is in the first line , which
+should have been 'Mommy called the doctor and the doctor said'; however, Anna
+substituted 'mommy' for 'doctor'; this error is listed in Class 43 as AN-26a.
+The second error is in the last word of the first line; Anna meant to say 'said',
+but the /kJ from 'called' was perseverated and substituted for the [s] in 'said', so
+she pronounced it *[khEd]; this error is listed in Class 12 as AN-26b. The third
+error occurs in the second line, where she intended to say 'called', but the vowel
+from 'said' was perseverated and substituted for the vowel in 'called', producing
+*[khEl]; this error is listed in Class 5 as AN-26c. (These classes will be
+explained in detail in §1.4 below.) This utterance was made at age 2;1.23 (two
+years, one month, 23 days). Because in some cases there were two or even three
+errors included under the same number, there are more errors than numbers. In
+the adult data there are 16 cases where a numbered utterance includes more than
+one error, so the highest numbered adult error is AD-700 rather than AD-716.
+The children's last entries are as follows: Anna, AN-330(35) 5;11.30; Alice,
+AL-270(38) 5;11.31; Bobby, B-588(13) 5;11.26; Other, OC-174(38) 5;11.31.
+lA Classification System
+The system used in this study for classifying errors was developed from
+traditional systems used for classifying adult errors in English, and makes use of
+the following three dimensions: 1) the linguistic component or stage involved
+in the error, 2) the directionality of the error, and 3) the form of the error. In
+the following section I will first present a discussion of these three factors,
+giving examples from the children's data. I will then discuss how classifications
+were made in ambiguous cases, indicating the decision-making procedures I used
+in a broad range of cases . At the end of this section I will review the RPC
+Model discussed in §1.2 above, showing how the various types of errors can
+arise given dysfunctions in specific locations in the model.
+I go into minute methodological detail in this section for two reasons.
+First, this will allow readers to interpret the classifications I have made of the
+data presented in this book, and if they disagree with my classification system,
+they can reclassify errors according to their own systems. Second, I intend for
+these details to be useful to researchers wanting to utilize the SOT methodology
+22 KIDS'SLIPS
+in their own work, particularly with young children. Naturally the classification
+system will need somerevising if the data are being collected in a language other
+than English, which contains different types or different proportions of linguistic
+units (e.g. has much more morphology; see Wells-Jensen 1999).
+1.4.1 Linguistic Components Involved in Errors
+Errors can occur at any stage of the speech production planning model, but
+they can be broadly grouped into four classes of error based on what type of
+linguistic unit was the locus of the misplanning. These classes are:
+Phonological, Lexical, Syntactic, and Propositional. Phonological errors are
+those which occur during the assignment of phonetic form and involve non-
+meaningful phonological units or prosody. Lexical errors are those which occur
+as lexical items are being activated and selected, and include paradigmatic lexical
+substitutions and blends. Syntactic errors are those which occur during the
+planning of the functional and linear structure of sentences, and include
+misplacements of lexical items and phrase blends. Finally, propositional errors
+are those where a speaker fluently produces an utterance which is at odds with the
+overall meaning he or she intended to convey.
+Phonological errors are those which involve phonological units which do
+not carry semantic content (i.e. are not morphemes): phonetic features, segments
+(consonants or vowels), sub-syllabic sequences of segments (consonant clusters,
+rhymes, etc.), syllables, and lexical stress. The cause of an intonational error
+can be syntactic or pragmatic; however, because they always , involve
+phonological (pitch) units, they are classified as phonological here, although
+they might be better thought of as syntactic in some cases. Because there are
+only 3 intonation errors in the child data and 5 in the adult data, their
+classification as 'phonological' vs. 'syntactic' does not have a large effect on the
+overall pattern of errors. The following examples are given in abbreviated form.
+(10) Phonological units involved in errors
+a. Features: AI: 'I made a? [a~tJ1 ... [~tI ph~a.dekt] ... af!
+project.' (for [~t ph~a.d3ekt]; feature of affrication reversed;
+AL-156(29) 3;8)
+b. Segments: AI: '[wak.x.be' baj.bi].' (for trock-a-bye-baby'
+[wak.x.ba' btSi.bi]; vowels raj] and [ei] reversed; AL-l(26) 2;0)
+c. Consonant clusters: AI: 'Sklppy hop, sklppy hop, [hf.pi skap].'
+(for [ski.pi hap]: [sk] and rh] reversed; AL-36(28) 2;6)
+d. Rhymes: AI: 'I was [d3'kk] tickling him.'
+(for 'just tickling' [d3Ast thfk.t.IIJ]'; rhyme [rk] anticipated!
+substituted for rhyme [Ast]; AL-116(6) 3;3)
+e. Syllables: B: 'Why did you invite [detbra] . .. David an'
+Barbara over?' (for [de'vid een bar.bra]: syllable [bro]
+anticipated/substituted for syllable [Yid]; B-491(11) 5;4)
+KIDS' SLIPS AS EVIDENCEFOR LANGUAGEDEVELOPMENT 23
+f. Unclassifiable groups of segments: 00: 'Not [r1:s] cone! .. . Not
+lee-cream cone!'
+(for [a's.krim]; see below for discussion; OC-21(34) 2;3)
+g. Lexical stress: An: 'I really wanna decorate Strawberry's house.'
+(for 'decorate'; source 'decoration'; AN-260(32) 4;11)
+h. Intonation:
+---.
+An: 'But.
+~'
+still .
+I~
+-. - - - -
+--,'
+he could not blow down that
+.If"
+-----_..---/
+house of brick[s:]' ~ ,
+.-:~ -- .-// \
+(blend of 'he could not blow down that house of bricks' and
+~
+'he could not blow that house of bricks down.' (AN-258(33) 4JO)
+In (lOa), the feature of affrication has been reversed, causing the segments [t]-[d3]
+to be realized as [tf]-[d]. Segmental errors involve both consonants, as shown in
+(1) above, and vowels, as in (4) and in (lOb) where the vowels [ej]-[ai] were
+reversed. In (lOc), the onset consonant cluster [sk] from 'skippy' has been
+reversed with the onset single consonant rh]. Example (lOd) shows an
+anticipation of the rhyme [rk] from 'tickling', which was substituted for the
+rhyme [xst] in 'just'. In (We), the whole syllable [bra] from 'Barbara' was
+anticipated and substituted for the syllable [vod] in 'David'. In (l0f), the vowel
+[ai], and the consonants [k] and [m] have been deleted, and the [s] moved to the
+end of the word forming a new syllable [ris], but with the duration and pitch
+contour of the intended utterance; this kind of error is termed a 'telescoping', as
+will be explained in the next section. The error in ClOg) shows a case where the
+lexical stress was shifted from the initial to the final syllable in 'decorate'.
+Finally, in (lOh), the intonational pattern of the utterance reflects a blend of the
+word order from one of the two target phrases with the intonation from the other
+target.
+Lexicalerrors involve paradigmatic substitutions and blends of meaningful
+lexical items . Units involved include 1) entire words, both content and function,
+both monomorphemic and polymorphemic; 2) content stems; and 3) inflectional
+and derivational affixes. Examples of substitutions involving these types of
+lexical items are given in (11) in abbreviated form. In Chapters 3 and 4 below I
+will justify treating most polymorphemic words as whole lexical items, rather
+than considering the error to involve specific morphemes within the words, as
+well as give more precise definitions of 'content' and 'function' morphemes.
+(11) Lexical units involved in errors.
+a . Monomorphemic free content words: B: 'M6mmy, more c6ffee ...
+more juice!' (B-20(35) 1;10)
+24 KIDS' SLIPS
+b. Polymorphemic free content words: OB: 'Take my Superman shirt
+off.' (for 'Batman'; OC-75(35) 3;11)
+c. Monomorphemic free function words:
+AI: 'Here it IS, Momrny. I got it tOr my ... off my bed.'
+(AL-55(36) 2;10)
+d. Polymorphemic free function words:
+OB: 'Ya know, M6m knows how to do it all by my . .. herself.'
+(child started to substitute 'myself for 'herself; OC-84(36) 4;0)
+e. Derivational affixes: B: 'My popsicle's in the freezy ... freezer.'
+(B-447(37) 5;1)
+f. Inflectional affixes: B: (sucking on a piece of candy)
+'I've been sucked on ... I've been suckjng on this for a long time.'
+(B-456(37) 5;1)
+In example (l Ia), the child intends to ask for more juice, but because he sees
+Mommy's coffee in the environment he erroneously substitutes the word
+'coffee'. In (Llb) the child substitutes the compound 'Superman' for 'Batman'.
+The error in (He) illustrates the substitution of an incorrect preposition, and
+(lId) an incorrect bimorphemic pronoun. In (l1e) the child substitutes the
+derivational suffix {-y} (adjectival) for {-er} (instrumental), and in (11f) the
+inflectional suffix {-ed} (passive) is substituted for {-ing} (progressive) (I am
+using curly brackets to indicate the"
+lemma of an affix).
+Syntactic errors involve the syntagmatic organization of phrasal strings,
+and are of two basic types: the misplacement of lexical items (words and
+morphemes) in the syntagmatic string, and phrase blends. While the former also
+involve lexical units, they are classified as syntactic errors rather than lexical
+errors since the error is not in lexical choice but in the erroneous placement of
+lexical items in the linear order.
+(12) Syntactic errors (see below for explanations).
+a. Misplacement of content morpheme:
+OG:'I'm p~tting your hair.'
+M: 'You are?'
+00: 'Yeah, so l: won't pet it ... pull it.' (OC-55(43) 3;7)
+b. Reversal of two free function words:
+B: 'Mommy, can you go with me?'
+M: 'What?'
+B: 'Can! go with you?' (B-96(46) 2;7)
+c. Misplacement of inflectional suffix:
+B: 'I never like boatS nde_ ... boat rides.' (*'boats ride' [bo'tts)
+raid] for 'boat rides' [bo't raid(z)]; B-397(42) 4;10)
+KIDS' SLIPS AS EVIDENCEFOR LANGUAGE DEVELOPMENT 25
+d. Phrase blend
+M: 'Come 6n; I'm trying to clean this place up!'
+AI: 'k won't I~t you tb.'
+M: 'What?'
+AI: .) don't ... ) won't let you.' (blend of .) won't let you' and 'I
+don't want you to.' AL-71(49) 2;10)
+In (l2a), the verb stem 'pet' has been perseverated and substituted for 'pull',
+leaving the inflectional suffix {-ing} behind. In (l2b) the pronouns 'I' and 'you'
+have been reversed, although in the error each is assigned correct case. The error
+in (12c) is a morpheme movement: the plural {-s} has been anticipated and added
+to the word 'boat' instead of the intended 'ride'. Note that the morpheme is
+pronounced with the phonologically correct allomorph in its error position.
+Example (12d) is a phrase blend, where the two phrasal targets have been blended
+into an ungrammatical utterance (this definition will be refined below) .
+Propositional errors occur when the speaker has formulated and produced
+an utterance which encodes a proposition which is different from what he or she
+had intended to say. For example:
+(13) B: 'Mom, can I play on your computer?'
+M: 'Well, "Fresh Prince" is gonna be on in a few minutes.'
+B: ·t wanna watch lt ... I mean I wanna play on your computer.'
+(B-413(50) 4;11)
+Here Bobby intended to reiterate to Mom that he wanted to play on the
+computer, but because Mom mentioned the TV show "Fresh Prince", Bobby was
+thinking about watching TV and erroneously conveyed the meaning that he
+wanted to watch the show rather than play on the computer; he then immediately
+corrected his utterance to the intended content. I have very few errors of this type
+in both the child and adult data, partly because they are the most difficult to
+accurately collect, since the researcher doesn't always know what meaning the
+speaker actually intended to convey.
+1.4.2 Directionality of Errors
+The locational relationship between the target/error and source of the error is
+the second dimension by which errors were categorized. There are two broad
+parameters along which errors can be classified with regards to directionality:
+contextuality and the paradigmaticlsyntagmatic relationship. There are also
+several specific categories used for labelling directionality, which will be given
+below.
+First, errors can be divided into the broad categories 'contextual' vs. 'non-
+contextual'. In 'contextual' errors, the source of the error involves some
+linguistic unit which is actually being planned for the current discourse or has
+been spoken in the discourse. In 'non-contextual' errors, there is no linguistic
+26 KIDSI SLIPS
+source in the utterance context. The second broad classification is 'paradigmatic'
+and 'syntagmatic'. In paradigmatic errors, the target and error units are elements
+which are related to each other in some linguistic paradigm (e.g. both are words ,
+both are morphemes, both are phonemes) and are competing for the same slot in
+a syntagmatic string. In syntagmatic errors, the target and the source of the error
+are being planned for different slots in the syntagrnatic (linear) string, and one
+influences the other by, for example, anticipation or perseveration. These two
+parameters, 'contextuality' and 'paradigmatic vs. syntagmatic' are to some extent
+orthogonal, and one or the other may be more pertinent to a particular type of
+error.
+Phonological errors are most often contextual and syntagmatic; that is, a
+phonological unit planned for some location in an utterance affects a like unit
+planned for some other location in the utterance, as in (lOa-e) above.
+Phonological errors can be non-contextual, that is, a unit can be substituted,
+added, or deleted with no obvious source in the utterance; however, this type of
+error is very rare. An example of a non-contextual paradigmatic phonological
+substitution is given in (14) below; in this case the vowel [i] in 'Mickey'
+[rnf .ki] was erroneously produced as [g'-], but there was no [g'-] vowel or [r]
+consonant which could have served as the source, produced in any other word in
+the utterance.
+(14) B: 'I like Deefree on the [mt.ke-] ... Mickey Mouse Club.'
+(for 'Mickey' [mi.ki]; no [g'-] or [r] in context; B-241(30) 4;3)
+Phonological errors can also include non-contextual additions or omissions,
+in cases where there is no obvious source in the utterance. In (15a), an [I] is
+added to the word 'food' with no obvious source; in (l5b) the [r] is left out of the
+cluster [d31'] for no apparent reason; the unfilled underline marks the location of
+the omission.
+(15) a. An: 'Whenever I get hungry I get some [fJlid].'
+(for 'food' [fud]; AN-I09(30) 3;3)
+b. OB:'It's sort of funny that I don't get anything to [d3_II)k] .. .
+to drink.'
+(for 'drink' [d3flI)k]; note that the Idl remains [d3] even when
+the [r] is omitted; see §3.3.5 for discussion; OC-69(30) 3;10)
+Another phonological error which could be considered 'non-contextual' is the
+type I have called 'telescoping', where some set of segments, including at least
+one weight-bearing unit (vowel, rhyme, syllable) is omitted, but the utterance is
+produced with the same overall duration and intonation contour as the intended
+utterance, as illustrated in (l0f) above and (29) below. The classification of
+telescoping errors in terms of the parameters 'paradigmatic' or 'syntagmatic' is
+KIDS' SLIPS AS EVIDENCE FOR LANGUAGE DEVELOPMENT 27
+somewhat ambiguous, although the latter is possibly more accurate because they
+do change the structure of the syntagmatic string. In fact, this dimension could
+simply be irrelevant to this type of non-contextual phonological error.
+Turning to lexical errors, one can see that the errors labelled 'lexical
+substitution errors' in this study, such as those presented in (11) above, are
+paradigmatic and non-contextual by definition. In every case they involve two
+paradigmatically related lexical items competing for the same syntagmatic slot,
+and do not involve a word planned for some other location in the utterance. A
+second type of lexical paradigmatic error is the 'blend', when two different lexical
+items are planned for the same syntagmatic slot in a phrase, and their
+phonological forms are blended into a single word. Examples of lexical blends
+are given in (16), where (a) shows a content word blend, and (b) a function word
+blend (see also (2b) above).
+(16) a. B: 'That's a great big [fa.pa] bear!'
+(blend of 'Father' [fa.<j3] and 'Poppa' [p'a.pa]: B-116(38) 2;10)
+b. B: (telling what time it says on his and Alice's clocks)
+'MIne is eight forty five, and [1.r-:] ... hers is eight forty five.'
+(blend of 'she' Ui] and 'hers' [ho-z]: B-363(39) 4;9)
+In some lexical blends, one or both of the targets has occurred in the preceding
+utterance; however, both words were appropriate in the target syntagmatic slot,
+and even if the child corrects to one of the two targets, there is no way of
+knowing which word he or she actually intended to utter. Therefore these errors
+have been counted as paradigmatic blends rather than perseverations, although
+those where one or both of the targets were spoken elsewhere in the utterance are
+considered to be 'contextual'. For example, in (17), either word 'milk' or
+'juice' would have been an appropriate utterance for the child, so this is a
+contextual paradigmatic blend. This example further illustrates the fact that
+occasionally in very early word blends there are actual blends of segments, with
+features from two distinct segmental targets blending into a third segment.
+(17) M: 'Do you want m}/k or jliice?'
+OB:'[lJuc].' (blend of 'milk' [mewk] and 'juice' [lue], with the onset
+consonants [m] and [t] blending to produce (1)]; OC-4(38) 1;11)
+However, if one lexical item is substituted for another and both were
+planned for the utterance or spoken in the utterance context, this is a syntagmatic
+and contextual error, and is considered a 'syntactic' error in this study. Examples
+are given in (12a,b) above. Other researchers have reported non-contextual lexical
+additions or omissions (e.g. Stemberger 1989), but in my data, errors which
+might be classified as such are usually more simply classifiable as phrase blends.
+On the other hand, phrase blend errors, as in (12d), are paradigmatic errors, since
+they involve two competing phrases (Le. in a paradigmatic relationship to each
+28 KIDS' SLIPS
+other) which have been blended together and inserted into the same phrasal slot.
+Their 'contextuality' is difficult to ascertain because they are both
+simultaneously being planned for the utterance, and part of each phrase is uttered;
+thus this will be considered an irrelevant parameter for this type of error.
+Finally, propositional errors are always paradigmatic since they involve two
+competing propositions; again the 'contextuality' parameter is irrelevant,
+although this type of error may involve some environmental or discourse (but
+not utterance) influence as in (13) above.
+Naturally when a non-contextual error is made, the child may have been
+thinking about another word or phrasing of the proposition which was in fact the
+source of the error. However when such sources are not verbalized by the child,
+and when they are not obvious from the immediate physical or discourse context,
+the observer cannot report on them; for this reason such errors are classified as
+'non-contextual'. One complication of the current study is the fact that the adult
+subjects often did verbalize the source of the error by making comments such as
+'Oh, I was thinking about X' or 'I almost said X'. However, in order to keep
+the adult data as comparable as possible to the child data, I did not utilize these
+comments in my classification of the adult data for the most part, since it was
+usually unavailable in the child data.
+The more specific divisions in terms of directionality are relevant to
+contextual syntagmatic errors only. In syntagmatic errors, both the target and
+source units are being planned for the utterance (or discourse), and one or both of
+these become misplaced or repeated. Both phonological and lexical units can be
+involved in syntagmatic errors. There are three basic types of directionality:
+1) Anticipation: the source follows the target. Some linguistic unit planned
+for later in the utterance is anticipated and affects a unit planned for earlier in the
+utterance.
+2) Perseveration: the target follows the source. Some linguistic unit planned
+for and executed earlier in the utterance perseverates and affects a unit planned for
+later in the utterance.
+3) Exchange: two elements exchange positions. This can include both
+metathesis, where contiguous units exchange, and reversals, where non-
+contiguous units exchange.
+Anticipations can be 'complete' or 'incomplete'. In a complete
+anticipation, both the error and source are spoken before the speaker corrects the
+utterance, as illustrated in (18).
+(18) a. An: 'I got [d3re1>]- jUice.' ([d3] anticipated from 'juice' [d3US],
+substituted for [g] in grape' [gre'p]; AN-42(1) 2;4)
+b. B: 'Mommy, when it chews, it . . . when! chew, it hurts.'
+('it' anticipated from second clause, substituted for'!' in first
+clause, with change in verb agreement; 8-436(41) 5;0)
+In an incomplete anticipation, the error is noticed and corrected before the speaker
+KIDS' SLIPS AS EVIDENCEFORLANGUAGE DEVELOPMENT 29
+utters the source, as illustrated in (19).
+(19) a. AI: 'Now we have [IAn] ... Qne left.' ([1] from 'left' [left]
+anticipated, substituted for [w] of 'one' [wxn]; AL-153(7) 3;7)
+b. AI: (putting her feet on the kitchen table) 'My p)g§. ... my toes are
+pigs' feet.' ('pig' anticipated, substituted for 'toe', stranding
+plural and possessive suffixes; AL-97(4l) 3;2)
+Some researchers (Shattuck-Hufnagel 1979) have argued that incomplete
+anticipations should be considered a separate class from complete anticipations,
+since in fact it is possible that they represent interrupted exchanges; that is, the
+speaker may have planned an erroneous exchange of units, but his or her external
+monitor noticed and corrected the error before the second element was uttered. So
+for example, in the above utterances, Alice could have been planning to say
+'Now we have [lAn weft]' and 'My plgs are tdes' feet.' However, there are a
+number of reasons to consider these errors anticipations. First, unambiguous
+(complete) anticipations are far more common than complete exchanges,
+suggesting that erroneous anticipations are planned more often than exchanges in
+general (see Chapter 2 for details). Second, there are many cases of incomplete
+anticipations where the exchange would cause an illegal utterance, as illustrated
+in (20).
+(20) AI: 'I get [gIAm.pi] ... grumpy when I sleep.' ([1] from 'sleep'
+anticipated and substituted for Irl [~] in 'grumpy'; AL-l04(7) 3;3)
+In this case if the III and Irl had been exchanged, the illegal cluster Isr! would
+have been produced in *'sreep'. Since planning errors rarely produce illegal
+phonotactic sequences in a language, this argues against the claim that such
+sequences are planned during speech production planning (although one could
+make the argument that the fact that they are illegal causes the internal monitor
+to spot them before they are produced).
+Third, there are a number of incomplete anticipations which involve
+additions or omissions, which cannot by definition be an exchange. (An actual
+movement of a unit from a position planned for later in the utterance into an
+earlier position is classified below as a 'movement' rather than an exchange;
+such movements also occur as perseverations, and are in general quite rare.)
+Fourth, in anticipations, the target and source can be several syllables away from
+each other, but in exchanges they are usually only one or two syllables distant;
+in many of the incompletes, the source is fairly distant from the target. Finally,
+as I will argue in Chapter 3, both complete and incomplete anticipations tend to
+show the same prosodic pattern, in which the source word carries the tonic
+stress. Exchanges, on the other hand, show a prosodic pattern in which the tonic
+syllable occurs on either the first or second element of the exchange with equal
+frequency. For all of these reasons I will count incomplete anticipations as a
+196 KIDS' SLIPS
+telescopings made by the I-year-olds in this study maintained aspects of the
+pitches of the lexical items involved in the utterance, even when some vowels
+were deleted, it seems most likely that this prosodic pattern is linked to the word
+node itself rather than to vowels, for example, and thus has some autosegmental
+features in even the earliest representations.
+However, after age 2, some of the other phonetic properties involved in
+adult English lexical stress begin to appear in the children's productions. As
+indicated in §3.3.4 above, when the children were around 2;3-2;5 the durational
+properties of their words began to sound more adult-like, and furthermore they
+began to show some evidence of allophonic variations which were linked to
+stress (for example, unstressed vowels became more schwa-like, medial voiceless
+plosives were aspirated only in onsets of stressed syllables). Thus by the age of
+2;6, which I have argued above is the time that internal syllable structure begins
+to be developed, the children show evidence of having some sort of indication in
+their form lexicon of which syllables are stressed and which are unstressed.
+Since it is at this age that the syllable-node tier begins to develop, perhaps this
+information about stress is represented as a sort of feature such as [+stress] or
+[-stress], linked to the syllable nodes. This feature could be the basis for the
+eventual development of the 'strong/weak' rhythmic tier, allowing foot structure
+to appear, which I have argued begins to develop around age 4. While this
+scenario for the development of the representation of lexical stress is speculative,
+it is completely compatible with the SOT data, as well as the hypothesis
+presented above about the development of the representation of syllable structure.
+3.7.2 Phrasal Rhythm
+It is often noted that one of the most important functions of lexical stress,
+besides distinguishing one word from another, is to contribute to the overall
+rhythmic structure of sentences. English is often called a 'stress-timed' language
+since stressed syllables are said to come at relatively regular intervals in an
+utterance. The question I will raise here is whether or not this has any relevance
+to actual speech production planning, especially where the 'Phonological
+Processes' component is involved.
+In SOT research it is a truism that two units are more likely to be mutually
+involved in an error if they occur in locations in the syntagmatic string with the
+same stress value, particularly if they are both stressed (Boomer & Laver 1973,
+Garrett 1975). Cutler (l980a) explains that this is because two stressed units
+have higher activation than unstressed units, and thus are more likely to interact
+with one another than two unstressed units or a stressed with an unstressed unit.
+In this section I will address this issue in terms of phonological errors; in
+Chapter 4 (§4.2.5) I will look at lexical errors in this light.
+In order to see whether the children followed this same well-documented
+pattern, I looked at all the between-word contextual phonological anticipations,
+perseverations, AlPs, and exchanges (but not 'multiple' errors) in which the
+target and source were uniquely identifiable, or if there was more than one
+source, where all sources would give the same analysis. I did not include
+PHONETICS ANDPHONOLOGY 197
+within-word errors, since they often involve two syllables with different stress
+levels and so are apparently governed by a different process. 1 also did not
+include metathesis errors, since they usually occur in adjacent syllables, which
+almost by definition contain different stress levels. Cases in which the error
+involved more than one syllable, such as the rhyme of one syllable and the onset
+of the following syllable where the two syllables had different stress values (i.e.
+R$O errors), were also not included in the count. Finally, I did not include the
+adult errors in categories 6.5, 10.5, and 11.5, since the children did not make
+comparable errors (I will return to this point below).
+To every syllable involved in the error, 1 assigned either a 'strong' or a
+'weak' value, depending on its value in the rhythm of the phrase. This was a
+simple task since 'strong' beats were always marked in my notes when the error
+was originally collected. This was a somewhat different measure from that used
+in assigning lexical stress for looking at lexical substitution errors. First, it was
+binary rather than having three levels of stress, since only the syllable's status as
+stressed or not stressed is relevant here. Second, for this phrase-stress analysis I
+did mark syllables in words with 3+ syllables which carried tertiary stress as
+'strong' when they were pronounced as relatively strong beats in the phrase; so
+for example, 'recommend' was considered to have a S-W-S pattern. Finally, I
+included syllabic inflectional affixes in the rhythmic structure of the phrase,
+whereas they were not considered in assigning lexical stress patterns to words in
+lexical substitution errors, since stems without inflectional affixes were taken as
+the unit of lexical representation. I then counted the number of errors in which
+target and source syllables (or both targets in the case of exchanges) were either
+both 'strong' or both 'weak', or involved one 'strong' and one 'weak' syllable.
+The results are shown in Table 3.23. In this table I have divided the 1-2-year-
+oIds' errors into '1-2a', in this case those children in the 2-word stage when the
+error was made, and '1-2b', Le. errors made by 1- or 2-year-old children in the
+3+word stage.
+It is clear from Table 3.23 that errors in which both the target and source
+syllables were stressed predominated in both the child and adult data; overall this
+pattern accounted for 78% of the child errors and 79.5% of the adult errors in this
+count, and at every age they were overwhelmingly the most common type
+(between 71.5-81.5%). The youngest children, Le. 1- and 2-year aids in the 2-
+word stage, had the lowest percentage of errors involving units in two stressed
+syllables, 71.5%. This figure increased 9% for the 1':'2-year-olds in the 3+word
+stage, so it is likely that the increase in importance of syntagmatic phrasal
+planning which occurs when children begin to plan utterances of three or more
+words accounts for the increase in importance of phrasal stress in phonological
+planning. Interestingly, the figure dropped somewhat for the 5-year-olds, which
+may be due to the fact that at this age they were learning more multi-syllabic
+words, and so had many more unstressed syllables available for error per phrase
+than the younger children. This would fit with the fact that overall the children's
+second most common error type involved one strong and one weak syllable, but
+for the adults the second most common type involved two unstressed syllables,
+and adults also know many multisyllabic words. In fact, if I were to add in the
+198 KIDS'SLIPS
+TABLE 3.23
+Number and percentage of unambiguous between-word phonological
+errors where target and source units fell into three stress categories:
+[+str] = both target and source units occurred in stressed syllables;
+[-str] = both target and source units occurred in unstressed syllables;
+[+1- str] = one of target/source units occurred in a stressed syllable and the
+other in an unstressed syllable.
+Age: 1-2a 1-2b 3 4 5 Total Adult
+[+ str] % 71.5% 80.5% 77% 81.5% 73% 78% 79.5%
+[-str] % 14.25% 8.5% 10% 5.5% 10% 8.5% 13%
+[+I-str] % 14.25% 11% 13% 13% 17% 13.5% 7.5%
+Total N= 14 107 99 146 103 469 189
+errors from the three 'adults-only' categories, 6.5, 10.5, and 11.5, the adult
+figure for interaction between two unstressed syllables would be 17%, since
+these categories involve adding extra syllables to the target word, and in every
+case these syllables were unstressed. It is likely that the difference between
+stressed and unstressed syllables is greater both in planning and execution of
+speech for adults, since, as discussed in the preceding section, the phonetic cues
+for stress are not as robust in the children's speech as they are for adults;
+therefore it is not surprising that the children could violate this distinction more
+readily than the adults.
+In §3.2.3 above I showed that the most important phonetic factor involved
+in explaining vowel errors was the stress level of the vowel; this factor was
+more important than segmental features such as height, backness, or roundness.
+From Table 3.23 it can be seen that the influence of phrasal stress is not just a
+factor in vowel errors but in all phonological errors. However, if the vowel
+errors are separated out from the consonant errors we find that the phrasal stress
+is a somewhat more important factor for vowels than for consonants. In Table
+3.9, the overall figure for two stressed vowels was 79.5% for the children and
+81% for adults, slightly higher than the overall averages from Table 3.23; but
+Table 3.9 includes both between-word and within-word errors. If we take just the
+between-word errors from Table 3.23, the children's figures are: two stressed
+syllables: 82% vowels, 77.5% consonants and LUs; two unstressed syllables:
+8% vowels, 8% consonants and LUs; stressed and unstressed syllable: 10%
+vowels, 14% consonants and LUs, with a 90% overall 'same syllable weight' for
+vowels vs. 85.5% for consonants and LUs. The adults similarly show an overall
+97% 'same syllable weight' for vowels vs. 92% for consonants and LUs. Thus
+for consonants and LUs, although the same stress level is important, other
+factors such as phonetic similarity and syllable structure position can outweigh
+the importance of syllable weight. (See Berg 1990 for a similar finding in
+PHONETICS ANDPHONOLOOY 199
+German.)
+There may appear at first to be a contradiction in this argument, since in my
+illustration of the development of syllable structure in (93) above I suggested
+that the actual 'strong-weak' designations which are licensed by foot structure
+are not represented in syllable structure until age 4. However, the most likely
+developmental progression is that at ages 2-3, when there is evidence of the
+influence of the weight of syllables within the phrasal stress pattern but no clear
+evidence for foot structure, the 'weight' factor is given by the lexical stress,
+which is represented in the lexicon when the word is first learned, as discussed in
+the preceding section. The consistency of the weight of syllables in
+phonological errors would also be facilitated by the fact that function words are
+typically unstressed, a factor to which children are sensitive from their earliest
+multi-word utterances (Gerken 1994); this is one reason why function words are
+less susceptible to error than content words in general. As suggested above,
+lexical stress is probably the phonetic factor which allows the development of
+foot structure within individual lexical representations; then lexical stress along
+with the distinction between stressed content words and unstressed function
+words allows the development of phrasal rhythmic structures. I would thus
+predict that it would be at about age 4 that children would start showing signs of
+stress shifting within individual words when such shift is required by the overall
+rhythmic structure of the phrase, as in 'discovered Mississippi' vs. 'Mississippi
+RIver', where primary stress shifts to a different inherently strong syllable
+within the word due to phrasal rhythm (Prince 1983, Kenstowicz 1994:554-5).
+Testing of this prediction awaits future research.
+3.7.3 Tonic Stress as an Organizer of the Syntagmatic Phonological String
+In phonological phrases, there is one word which has special pragmatic
+prominence, typically because it is either the new information in focus in the
+phrase, or its meaning is being foregrounded in some pragmatically relevant way
+(e.g. emphasis, contrast, denial of previous statement, etc.). I will call the word
+which has this pragmatic prominence the 'tonic word' of the phrase. The
+primary-stressed syllable of the tonic word receives 'tonic stress', that is, the
+strongest stress in the phrase. Most typically, this syllable is marked
+phonetically in declarative utterances by being the highest pitched syllable in the
+phrase; the pitch then falls to the end of the phrase. In questions, it takes the
+highest pitch in the phrase except for the rising-pitch which occurs on the final
+word(s) of the question. Besides these pitch patterns, the tonic syllable (i.e. the
+syllable which takes tonic stress) is marked by an exaggeration of the other
+features which normally mark lexical stress: lengthening of segments, full value
+of vowels in the syllable, specific allophones of consonants (e.g. aspirated
+voiceless stops), and intensity.
+Because of the special function of this prosodically marked syllable in a
+phrase, it would not be surprising if it played some important role in speech
+production planning, specifically in the planning of the phonetic properties of
+the utterance. (In this chapter I will fccus on the role of the tonic syllable in
+r t h a n u s i n g the IPA s y m b o l[
+i
+]
+, for t y p o g r a p h i c a lease;
+NOTES ON THE DATA 511
+TABLE OF CONTENTS OF ERROR TYPES
+I. Phonological Errors
+Om
+1.
+2.
+3.
+4.
+5.
+6 .
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26 .
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+Units. Directionality. and Type
+Phonological anticipations (complete), substitutions, consonants 513
+Phonological anticipations (complete), additions, consonants 519
+Phonological anticipations (complete), movements, consonants 524
+Phonological anticipations (complete), omissions, consonants 526
+Phonological anticipations (complete), substitutions, vowels 527
+Phonological anticipations (complete), substitutions, larger units 530
+Phonological anticipations (incomplete), substitutions, consonants 531
+Phonological anticipations (incomplete), additions, consonants 540
+Phonological anticipations (incomplete), omissions, consonants 543
+Phonological anticipations (incomplete), substitutions, vowels 544
+Phonological anticipations (incomplete), substitutions, larger units 546
+Phonological perseverations, substitutions, consonants 550
+Phonological perseverations, additions, consonants 560
+Phonological perseverations, movements, consonants 566
+Phonological perseverations, omissions, consonants 568
+Phonological perseverations, substitutions, vowels 572
+Phonological perseverations, movements, vowels 576
+Phonological perseverations, substitutions, larger units 576
+Phonological perseverations, additions, larger units 579
+Phonological NP, substitutions, consonants 579
+Phonological NP, additions, consonants 586
+Phonological NP, omissions, consonants 591
+Phonological NP, substitutions, vowels 593
+Phonological NP, substitutions, larger units 594
+Phonological reversals (non-contiguous), consonants 595
+Phonological reversals (non-contiguous), vowels 602
+Phonological metathesis (contiguous), vowels and/or consonants 603
+Phonological exchanges (contiguous or non-contiguous),
+larger units 605
+Phonological feature errors (all types) 607
+Phonological non-contextual substitutions, additions or omissions,
+all units 610
+Phonological errors with multiple error types (combinations
+of above) 612
+Phonological errors oflexical stress 618
+Phonological errors of intonation 619
+Phonological telescopings of phrases 620
+512 KIDS' SLIPS
+Il. Paradigmatic Lexical Errors
+!:.Jiw Units. Directiooality. and Type
+35. Lexical substitutions, content words 629
+36. Lexical substitutions, function words 660
+37. Lexical substitutions, affixes 668
+38. Lexical blends, content words 668
+39. Lexical blends, function words 683
+40. Lexical blends, mixed content and function words 684
+IlL Syntactic Errors
+om Units. Directionality. and Type
+41. Lexical anticipations, content and function words (substitutions,
+additions) 685
+42. Lexical anticipations, affixes 692
+43. Lexical perseverations, content and function words (substitutions
+and additions) 694
+44. Lexical perseverations,affixes 704
+45. Lexical reversals (non-contiguous), content words 706
+46. Lexical reversals (non-contiguous), function words 708
+47. Lexical metathesis (contiguous),content and function words 708
+48. Syntactic errors with multiple error types involving words and
+morphemes 710
+49. Syntactic phrase blends 712
+IV. Proposltional Errors
+!dim Units. Directionality. and Type
+50. Errors of formulating the proposition 720
+This page intentionally left blank
+Author Index
+A
+Abd-EI-Jawad, H., 3, 68
+Abu-Salim, I., 68
+Aitchison, J., 4, 208
+Allen, G., 195
+Anderson, J., 126
+Anshen, F., 388
+Arnaud, P., 4, 208, 221, 236, 238,
+252, 314, 326, 357
+Aronoff, M., 385, 388
+Awuku, A., 4, 476
+B
+Baars, B., 11,41,466
+Baayen, R., 388
+Baker, W., 441
+Barton, D. 98
+Bates, E., 219, 295
+Bauer, L., 385, 388
+Beard, R., 387
+Beland, R, 4, 385
+Beretta, A., 386
+Berg, T., 3,93, 198,419,427
+Bergida,R, 386
+Berko (Gleason), J., 1, 191, 311,441
+Bernstein Ratner, N., 1
+Blevins, J., 126, 127
+Bloch, B., 448
+Bloch, D., 4, 71
+Bloom, L., 461
+Bock, K., 3, 6, 299, 385, 402, 426
+Boomer, D., 11, 75, 107, 147, 196
+Bowerman, M., 4, 14, 298-9, 311,
+319,321,360,365-7,375,
+380, 382-4, 461
+Braine, M., 290,461
+Breaux, A., 93
+Bresnan, 1., 225, 230
+Brown, c., 386
+Brown, G., 5, 356
+Brown, H., 10, 134, 212
+Brown, R, 1, 134, 184, 208, 304,
+311,386, 389,406,417-9,
+440,458,461
+Bruner,1., 219
+Burger, L., 3, 71, 232, 267
+Butterworth, B., 385
+c
+Campbell, C., 386
+Cao, Y., 386
+Caplan, D., 6
+Caramazza, A., 234
+Carey, S., 365
+Carr, T., 386
+Carter, B., 93
+Chen, J., 4, 466
+Chomsky, N., 97, 184
+Christianson, K., 386
+Clark, E., 1, 191, 290, 299, 303,
+316,351,366,380,441
+Clark, H., 369, 370
+Clements, G., 127, 184
+Coppola, M., 447
+Corbett, G., 411,445
+Crompton, A., 126
+Cutler, A., 3, 5, 16, 55, 125, 133,
+137, 184, 187, 190, 196, 204
+208,212,234,236,238,
+252,298,356,388
+D
+Dale, P., 295
+Davis, B., 6,91, 110, 124,214,
+219,315,366,383
+Davis, S., 163
+DeHart, G., 366
+Dell, G., 3, 6, 11, 34, 38, 71,
+723
+724 KIDS' SLIPS
+232, 256, 267, 385
+Derwing, B., 93, 127, 128,441
+de Villiers, r., 417
+de Villiers, A., 417
+Dow, M., 93
+Dumais, So, 371
+Dunbar, G., 3
+E
+Elbers, L., 137
+Entwisle, D., 311
+Erickson, Do, 124
+F
+Fay, Do, 125, 137, 184, 208, 212,
+234, 236, 238, 252, 298,
+466
+Fenson, L., 295
+Ferber, R., 16
+Ferguson, c., 92, 219
+FiIlmore, C., 315-6, 320, 365,
+380-1,383
+Fischer, r., 93
+Forster, K., 385
+Frauenfelder, D., 385
+Freud, S., 3, 279
+Frisch, S., 97
+Fromkin, V., 3, 6, 11, 34, 39, 45, 68,
+75, 94-5, 97, 109, 115, 127,
+234,238,298,385,402,419
+Fujimura, 0., 124
+G
+Garman, M., 461
+Garnham, A., 5, 356
+Garrett, M., 3, 6, 42, 45, 196, 385,
+402,419
+Gerken, L., 93, 199,461
+Gillette, 1., 461
+Gleitman, L., 461
+Goldfield, B., 47
+Goldrick, M., 4
+Goldsmith, J., 389
+Goldstein, L., 94, 97-103
+Golinkoff, R., 461
+Govindjee, A., 3
+Greenbaum, S., 387
+Griffiths, P., 316
+Gudeman, R., 366
+Gupta, Po, 3
+Guralnik, D., 63,429
+H
+Hagoort, P., 386
+Halle, M., 97, 161, 184, 185
+Harley, T., 3, 10,41, 134, 212,
+222,236,238,252,274,
+278-9,298,314,357-8,364
+Hartsuiker, R., 146
+Hartung, r., 295
+Hawkins, S., 195
+Herzog, H., 386
+Hirsh-Pasek, K., 461
+Hokkanen, T., 4, 385
+Hollander, M., 1,447
+Hotopf, W., 221-2, 227-8, 231-
+3,236,238,240,252,
+296-9, 314, 355-9, 364
+Huang, J., 386
+Hurford, J., 208
+I
+Idrissi, A., 4, 385
+Ihns, M., 461
+Indefrey, P., 386
+Ingram, D., 1, 11
+ne, 1., 127
+J
+Jackendoff, R., 385
+Jake, r., 476
+Jaeger, J., 4, 5, 18, 60, 70, 80,
+93,97-9, 112, 117, 118, 157-8,
+163, 184, 189, 195,214,221 ,
+311,386,429,447,448,460
+Jakobson, R, 339
+Jones, G., 3
+Juliano, c., 3
+Jusczyk, P., 91
+K
+Kager, R, 184
+Kawachi, K., 3, 17,71,267
+Kemmerer, D., 184,386,447,448,
+460
+Kenstowicz, M., 184, 199
+Keyser, S., 127
+Khalak, H., 184, 386,447,448,
+460
+Kim, J., 447
+Kiparsky, P., 389
+Kiraly, G., 3
+Klatt, D., 39, 75, 97
+Kohn, S., 4
+Krohn, R, 184
+L
+Ladefoged, P., 104
+Lakoff, G., 315
+Lambrecht, K., 259
+Landaur, T., 371
+Langacker, R, 315
+LaPolla, R, 9, 259, 467
+Laubstein, A., 8, 37, 126, 147,
+158-64, 312
+Laver, J., 10, 11, 75, 107, 147, 196
+Leonard, L., 461
+Levelt, W., 3, 6, 8, 14, 92, 126, 222,
+229, 234, 278, 299, 312, 314,
+319, 342, 356, 375, 381, 385,
+402,426
+Lewis, M., 419
+Liberman, I., 93
+Lindblom, B., 91,92
+AUTHOR INDEX 725
+Locke, J., 2, 91
+Lockwood, A., 184, 386,447-8,
+460
+Lyons, J., 315, 320, 324, 339,
+364
+M
+MacAndrew, S., 3,222, 236, 238,
+252-3, 298, 314, 357-8, 364
+MacKay, D., 4, 11, 97, 126
+Macken, M., 91, 93, 98,219
+MacNeilage, P., 6,91, 110, 124,
+214,219,315,366,383
+MacWhinney, B., 219,412
+Mahoney, P., 4
+Maratsos, M ., 366
+Marchman, V., 295
+Marcus, G., 1, 447
+Marslen-Wilson, W., 385
+Marx, E., 427
+Matyear, c.. 91
+Mayer, K., 3,227,355
+McCune, L., 179
+McIntosh,8., 461
+McNeill, D., 134, 184, 208
+Melinger, A., 395,400
+Menn, L., 1,92
+Menyuk, P., 92
+Meringer, R, 3-4, 227-33, 355
+Meyer, A., 3, 6, 8, 92, 153, 312,
+314, 381
+Mill, A., 5, 356
+Miller, G., 385
+Min, H., 3, 68
+Motley, M., 11, 279
+Muansuwan, N., 3, 17, 68, 222
+Murphy, B., 184, 386, 447, 448,
+460
+Myers-Scotton, C., 476
+Myerson, R, 184
+726 KIDS' SLIPS
+N
+Nearey, T., 93
+Nelson, K., 47,311
+Nespor, M., 126
+Neufeldt, V., 63,429
+Nooteboom, S., 16, 68-9, 74, 97,
+234-5
+o
+Ohala, J., 93, 184, 195
+O'Craven, K., 386
+O'Seaghda, P., 385
+p
+Peters, A., 406, 458, 461
+Pillon, A., 395, 400
+Pinker, S., 1, 385, 447, 448
+Plunkett, K., 447
+Poldi, G., 366
+Poulisse, N., 4,16,17,71,147
+Prasada, S., 447
+Prince, A., 199, 385, 447
+Prunet, J-F., 4, 385
+Q
+Quirk, R, 387
+R
+Radford, A., 290
+Rapp, B., 4, 234
+Raymond, W., 3
+Read, c., 119, 122
+Reich, P., 3, 6, 11, 34, 256
+Reilly, J., 295
+Reznick, S., 295
+Rosen, T., 1
+Roelofs, A., 6, 8, 92, 312, 314, 381
+Rossi, M., 4
+Rubino, C., 4
+s
+Sach, M., 386
+Saffran, E., 4, 71
+Sandra, D., 385
+Schelvis, M., 3
+Schmitt, L., 386
+Schreuder, R, 385
+Schwartz, M., 4, 71
+Scollon, R, 461
+Seitz, R., 386
+Selkirk, E., 126, 203
+Shankweiler, D., 93
+Shattuck-Hufnagel, S., 6, 29, 39,
+75,94,97, 103-7, 112, 126,
+154
+Shillcock, R, 5, 356
+Silber, R., 92
+Slobin, D., 458
+Smith, B., 5
+Smith, K., 4
+Snow, C., 47
+Sole, M-J., 119
+Steinberg, D., 184
+Stemberger, J., 3-5, 13, 27, 47,
+56, 61, 64-6, 69, 71, 74, 78,
+95-7, 101, 112, 126-7, 144,
+164,222,232,236,238,
+252,267, 385,402,412-3
+419-20,458,466
+Steel-Gammon, c., 92
+Straf, M., 4, 208
+Studdert-Kennedy, M., 92
+Stump, G., 387, 388
+Svec, W., 3, 71, 232, 267
+T
+Taft, M., 385
+Talmy, L., 313, 315
+Thai, D., 295
+Treiman, R, 93, 164
+u
+Ullman, M., 1, 386
+v
+Valian, V., 461
+van den Broecke, M., 94,97-103
+Van Valin, R., 9, 184, 259, 386,
+447,448,460,467
+Velleman, S., 179
+Vihman, M., 4, 91, 93, 179
+Vitevitch, M., 212
+Vogel, I., 55, 126, 191
+Vergnaud, J-R., 161
+w
+Waksler, R., 385
+Wan, I-P., 3, 4, 17, 68, 112, 189
+Warren, H., 5,279
+Waterson, N., 91
+Wells-Jensen, S., 3, 14, 17, 22,68
+Wilkins, D., 5, 221, 311
+Wijnen, F., 5, 314, 356-359
+x
+Xu, F., 1
+y
+Yazmajian, R., 3,279
+AUTHOR INDEX 727

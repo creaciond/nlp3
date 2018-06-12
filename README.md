@@ -26,3 +26,5 @@ PDF-версии всех презентаций с wikispaces: https://drive.go
 |1|TF-IDF, частотные характеристики элементов текста|[задание](https://docs.google.com/document/d/1QB8Ygh9oiqbtVyTz-vT-R0wgRwrLqXNf1WS5RbpTHLY/edit), [инструкция](https://docs.google.com/document/d/16GLEDqA2J2wejAYB-fBFZN24N6zoaXTXDJP56ZM3bI8/edit)|25 апр|
 |2|Препроцессинг|[тетрадка Jupyter](./homeworks/HW_Preprocessing.ipynb)|25 апр|
 |3|Распознавание языка|тут будет ссылка|29 апр|
+|4|Автоматический синтаксический анализ|[задание + инструкция](https://docs.google.com/document/d/1lNYvhkVyljjrTvSp5rgZtjZ7pES1bsew5pe0rX6BSSc/edit#)|16 июн|
+|5|Базовые алгоритмы зависимостного парсинга|[задание + инструкция](https://docs.google.com/document/d/1LaOw3yO5n4nV7P6XSjJGsl1zGcNk_QqT7M3cMhsQTvQ/edit#)|16 июн|
